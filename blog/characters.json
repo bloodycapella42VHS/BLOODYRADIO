@@ -1,0 +1,106 @@
+{
+  "capella": {
+    "name": "CAPELLA",
+    "code": "C-001",
+    "title": "THE GODDESS OF VOID",
+    "description": "Eres curiosa, sensible e intensa. Te atraen los misterios, las preguntas difíciles, los números, las máquinas y aquello que parece imposible de comprender. Buscas entender el mundo y proteger lo que te importa.",
+    "traits": [
+      "Curiosidad",
+      "Sensibilidad",
+      "Imaginación",
+      "Intensidad",
+      "Devoción"
+    ]
+  },
+  "marina": {
+    "name": "MARINA",
+    "code": "M-002",
+    "title": "THE MOTHER IN QUEEN",
+    "description": "Tu fuerza nace de la resistencia, la lealtad y el deseo de proteger. Puedes asumir responsabilidades, pero también necesitas descanso y compañía. Tu presencia transmite seguridad.",
+    "traits": [
+      "Resistencia",
+      "Protección",
+      "Lealtad",
+      "Determinación",
+      "Calidez"
+    ]
+  },
+  "twyla": {
+    "name": "TWYLA",
+    "code": "T-003",
+    "title": "THE SHADOW OF BULLETS",
+    "description": "Observas antes de actuar. Valoras la independencia, la prudencia y el espacio personal. Prefieres analizar con calma y elegir cuidadosamente en quién confiar.",
+    "traits": [
+      "Observación",
+      "Prudencia",
+      "Introspección",
+      "Reserva",
+      "Independencia"
+    ]
+  },
+  "corvunson": {
+    "name": "MRS. CORVUNSON",
+    "code": "W-004",
+    "title": "THE STRATEGIC MATRIARCH",
+    "description": "Piensas en términos de estructura, responsabilidad y consecuencias. Organizas recursos, tomas decisiones y asumes el peso de dirigir.",
+    "traits": [
+      "Liderazgo",
+      "Estrategia",
+      "Autoridad",
+      "Responsabilidad",
+      "Organización"
+    ]
+  },
+  "alba": {
+    "name": "DOMINOUS ALBA",
+    "code": "A-005",
+    "title": "THE FORGOTTEN SUN",
+    "description": "Te atraen los símbolos, los enigmas y las preguntas sin respuestas sencillas. Buscas significados ocultos y conservas una parte de ti que pocos conocen.",
+    "traits": [
+      "Misterio",
+      "Ambición",
+      "Simbolismo",
+      "Individualidad",
+      "Determinación"
+    ]
+  },
+  "embry": {
+    "name": "EMBRY ODESSA",
+    "code": "E-312",
+    "title": "THE EXECUTOR OF VOID",
+    "description": "Tu presencia puede ser imponente, pero valoras la unión y la lealtad. Prefieres construir soluciones que mantengan unido al grupo.",
+    "traits": [
+      "Autoridad",
+      "Lealtad",
+      "Unión",
+      "Imponencia",
+      "Resolución"
+    ]
+  },
+  "honey": {
+    "name": "HONEY BADGER GENT",
+    "code": "H-047",
+    "title": "THE WRITER OF FEARS",
+    "description": "Conviven en ti la seriedad y una sensibilidad que no siempre muestras. Has aprendido a resistir, adaptarte y reconstruirte después de experiencias difíciles.",
+    "traits": [
+      "Dualidad",
+      "Seriedad",
+      "Resiliencia",
+      "Imponencia",
+      "Creatividad"
+    ]
+  },
+  "mary": {
+    "name": "MARY ANTA",
+    "code": "M-913",
+    "title": "THE SORROWFUL MIRACLE",
+    "description": "Incluso cuando las cosas no salen como esperabas, conservas una chispa de alegría. Puedes reconocer tu fragilidad sin renunciar a volver a sonreír.",
+    "traits": [
+      "Optimismo",
+      "Resiliencia",
+      "Fragilidad",
+      "Esperanza",
+      "Espontaneidad"
+    ]
+  }
+}
