@@ -918,5 +918,466 @@
         "character": "mary"
       }
     ]
+  },
+[
+  {
+    "id": "BC-041",
+    "category": "interests",
+    "question": "¿Qué descubrimiento te entusiasmaría más?",
+    "answers": [
+      {
+        "text": "Un mecanismo que desafíe lo conocido.",
+        "character": "capella"
+      },
+      {
+        "text": "Un símbolo cuyo origen nadie recuerda.",
+        "character": "alba"
+      },
+      {
+        "text": "Una verdad enterrada bajo muchas versiones.",
+        "character": "honey"
+      },
+      {
+        "text": "Un patrón que nadie había notado.",
+        "character": "twyla"
+      }
+    ]
+  },
+  {
+    "id": "BC-042",
+    "category": "relationships",
+    "question": "Cuando alguien nuevo llega al grupo...",
+    "answers": [
+      {
+        "text": "Procuro que se sienta acompañado.",
+        "character": "marina"
+      },
+      {
+        "text": "Busco cómo integrarlo al conjunto.",
+        "character": "embry"
+      },
+      {
+        "text": "Observo antes de acercarme.",
+        "character": "twyla"
+      },
+      {
+        "text": "Le doy una bienvenida amable.",
+        "character": "mary"
+      }
+    ]
+  },
+  {
+    "id": "BC-043",
+    "category": "decisions",
+    "question": "Te ofrecen una oportunidad arriesgada. ¿Qué consideras primero?",
+    "answers": [
+      {
+        "text": "Lo que podría aprender.",
+        "character": "capella"
+      },
+      {
+        "text": "Los recursos y las consecuencias.",
+        "character": "corvunson"
+      },
+      {
+        "text": "La seguridad de quienes me acompañan.",
+        "character": "marina"
+      },
+      {
+        "text": "Lo que tendría que superar.",
+        "character": "honey"
+      }
+    ]
+  },
+  {
+    "id": "BC-044",
+    "category": "environment",
+    "question": "¿Qué escenario te inspira más?",
+    "answers": [
+      {
+        "text": "Un observatorio bajo un eclipse.",
+        "character": "alba"
+      },
+      {
+        "text": "Un taller lleno de prototipos.",
+        "character": "capella"
+      },
+      {
+        "text": "Un jardín pequeño después de la lluvia.",
+        "character": "mary"
+      },
+      {
+        "text": "Un pasillo silencioso con ventanas altas.",
+        "character": "twyla"
+      }
+    ]
+  },
+  {
+    "id": "BC-045",
+    "category": "values",
+    "question": "¿Qué significa cumplir una promesa?",
+    "answers": [
+      {
+        "text": "Mantener unido al grupo.",
+        "character": "embry"
+      },
+      {
+        "text": "Permanecer presente cuando alguien necesita apoyo.",
+        "character": "marina"
+      },
+      {
+        "text": "Asumir la responsabilidad de lo acordado.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Seguir adelante pese a las dificultades.",
+        "character": "honey"
+      }
+    ]
+  },
+  {
+    "id": "BC-046",
+    "category": "emotions",
+    "question": "Cuando necesitas ordenar tus pensamientos...",
+    "answers": [
+      {
+        "text": "Busco silencio y distancia.",
+        "character": "twyla"
+      },
+      {
+        "text": "Escribo preguntas y conecto ideas.",
+        "character": "capella"
+      },
+      {
+        "text": "Hablo con alguien de confianza.",
+        "character": "mary"
+      },
+      {
+        "text": "Intento encontrar un significado.",
+        "character": "alba"
+      }
+    ]
+  },
+  {
+    "id": "BC-047",
+    "category": "leadership",
+    "question": "Un proyecto se queda sin dirección. ¿Qué haces?",
+    "answers": [
+      {
+        "text": "Defino prioridades y responsabilidades.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Reúno al equipo alrededor de un objetivo.",
+        "character": "embry"
+      },
+      {
+        "text": "Propongo caminos alternativos.",
+        "character": "capella"
+      },
+      {
+        "text": "Compruebo cómo está cada integrante.",
+        "character": "marina"
+      }
+    ]
+  },
+  {
+    "id": "BC-048",
+    "category": "resilience",
+    "question": "Después de una etapa complicada, ¿qué te ayuda?",
+    "answers": [
+      {
+        "text": "Transformar lo vivido en una razón para seguir.",
+        "character": "honey"
+      },
+      {
+        "text": "Recordar que aún existen momentos alegres.",
+        "character": "mary"
+      },
+      {
+        "text": "Sentir que no tengo que cargar con todo a solas.",
+        "character": "marina"
+      },
+      {
+        "text": "Recuperar mi espacio y avanzar a mi ritmo.",
+        "character": "twyla"
+      }
+    ]
+  },
+  {
+    "id": "BC-049",
+    "category": "mystery",
+    "question": "Encuentras un expediente sin nombre. ¿Qué revisarías primero?",
+    "answers": [
+      {
+        "text": "Las referencias y símbolos.",
+        "character": "alba"
+      },
+      {
+        "text": "Las pequeñas inconsistencias.",
+        "character": "twyla"
+      },
+      {
+        "text": "Los datos para reconstruir lo ocurrido.",
+        "character": "capella"
+      },
+      {
+        "text": "Las fechas y responsables.",
+        "character": "corvunson"
+      }
+    ]
+  },
+  {
+    "id": "BC-050",
+    "category": "ambition",
+    "question": "¿Qué te gustaría dominar con el tiempo?",
+    "answers": [
+      {
+        "text": "Comprender fenómenos inexplicables.",
+        "character": "capella"
+      },
+      {
+        "text": "Coordinar personas con objetivos distintos.",
+        "character": "embry"
+      },
+      {
+        "text": "Mantener la firmeza sin perder sensibilidad.",
+        "character": "honey"
+      },
+      {
+        "text": "Diseñar sistemas resistentes.",
+        "character": "corvunson"
+      }
+    ]
+  },
+  {
+    "id": "BC-051",
+    "category": "relationships",
+    "question": "Si un amigo guarda silencio durante días...",
+    "answers": [
+      {
+        "text": "Le hago saber que puede acercarse cuando quiera.",
+        "character": "mary"
+      },
+      {
+        "text": "Respeto su espacio.",
+        "character": "twyla"
+      },
+      {
+        "text": "Compruebo discretamente que esté bien.",
+        "character": "marina"
+      },
+      {
+        "text": "Intento comprender qué pudo cambiar.",
+        "character": "capella"
+      }
+    ]
+  },
+  {
+    "id": "BC-052",
+    "category": "philosophy",
+    "question": "¿Qué idea se acerca más a tu filosofía?",
+    "answers": [
+      {
+        "text": "No todo lo importante se revela a primera vista.",
+        "character": "alba"
+      },
+      {
+        "text": "Lo que se rompe puede tomar otra forma.",
+        "character": "honey"
+      },
+      {
+        "text": "La esperanza sobrevive en cosas pequeñas.",
+        "character": "mary"
+      },
+      {
+        "text": "La unión exige decisiones, no solo palabras.",
+        "character": "embry"
+      }
+    ]
+  },
+  {
+    "id": "BC-053",
+    "category": "decisions",
+    "question": "Ante dos versiones contradictorias de una historia...",
+    "answers": [
+      {
+        "text": "Comparo detalles antes de concluir.",
+        "character": "twyla"
+      },
+      {
+        "text": "Investigo hasta encontrar evidencia.",
+        "character": "capella"
+      },
+      {
+        "text": "Busco significados ocultos.",
+        "character": "alba"
+      },
+      {
+        "text": "Separo los hechos confirmados de las suposiciones.",
+        "character": "corvunson"
+      }
+    ]
+  },
+  {
+    "id": "BC-054",
+    "category": "interests",
+    "question": "¿Qué actividad elegirías para una tarde libre?",
+    "answers": [
+      {
+        "text": "Cuidar plantas o dibujar.",
+        "character": "mary"
+      },
+      {
+        "text": "Desarmar un objeto para entenderlo.",
+        "character": "capella"
+      },
+      {
+        "text": "Escribir una historia intensa.",
+        "character": "honey"
+      },
+      {
+        "text": "Preparar algo para compartir.",
+        "character": "marina"
+      }
+    ]
+  },
+  {
+    "id": "BC-055",
+    "category": "values",
+    "question": "¿Qué actitud te cuesta más tolerar?",
+    "answers": [
+      {
+        "text": "Abandonar a alguien vulnerable.",
+        "character": "marina"
+      },
+      {
+        "text": "Evitar toda responsabilidad.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Invadir límites personales.",
+        "character": "twyla"
+      },
+      {
+        "text": "Romper la confianza del equipo.",
+        "character": "embry"
+      }
+    ]
+  },
+  {
+    "id": "BC-056",
+    "category": "emotions",
+    "question": "Cuando recibes una crítica inesperada...",
+    "answers": [
+      {
+        "text": "Pregunto qué parte concreta debo revisar.",
+        "character": "capella"
+      },
+      {
+        "text": "La proceso y decido qué aprender.",
+        "character": "honey"
+      },
+      {
+        "text": "No respondo de inmediato.",
+        "character": "twyla"
+      },
+      {
+        "text": "Puede dolerme, pero intento conservar el ánimo.",
+        "character": "mary"
+      }
+    ]
+  },
+  {
+    "id": "BC-057",
+    "category": "leadership",
+    "question": "En una crisis, ¿qué función asumirías?",
+    "answers": [
+      {
+        "text": "Coordinar a quienes pueden actuar juntos.",
+        "character": "embry"
+      },
+      {
+        "text": "Atender a quienes necesitan protección.",
+        "character": "marina"
+      },
+      {
+        "text": "Interpretar señales y anticipar riesgos.",
+        "character": "alba"
+      },
+      {
+        "text": "Buscar una solución técnica.",
+        "character": "capella"
+      }
+    ]
+  },
+  {
+    "id": "BC-058",
+    "category": "environment",
+    "question": "¿Dónde preferirías trabajar?",
+    "answers": [
+      {
+        "text": "Una sala de operaciones organizada.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Un estudio apartado para escribir.",
+        "character": "honey"
+      },
+      {
+        "text": "Un espacio discreto y silencioso.",
+        "character": "twyla"
+      },
+      {
+        "text": "Un lugar luminoso y acogedor.",
+        "character": "mary"
+      }
+    ]
+  },
+  {
+    "id": "BC-059",
+    "category": "mystery",
+    "question": "Una puerta aparece abierta en un edificio abandonado. ¿Qué haces?",
+    "answers": [
+      {
+        "text": "Examino el mecanismo.",
+        "character": "capella"
+      },
+      {
+        "text": "Escucho y observo antes de acercarme.",
+        "character": "twyla"
+      },
+      {
+        "text": "Aseguro el perímetro.",
+        "character": "embry"
+      },
+      {
+        "text": "Busco marcas que expliquen su origen.",
+        "character": "alba"
+      }
+    ]
+  },
+  {
+    "id": "BC-060",
+    "category": "resilience",
+    "question": "¿Qué significa para ti empezar de nuevo?",
+    "answers": [
+      {
+        "text": "Reconstruir con lo aprendido.",
+        "character": "honey"
+      },
+      {
+        "text": "Avanzar sin perder la ternura.",
+        "character": "mary"
+      },
+      {
+        "text": "Dar otro significado a lo que terminó.",
+        "character": "alba"
+      },
+      {
+        "text": "Elegir mi propio camino con claridad.",
+        "character": "twyla"
+      }
+    ]
   }
 ]
