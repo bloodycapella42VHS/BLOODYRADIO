@@ -272,10 +272,37 @@
 
     const total = answers.length;
 
-    el.name.textContent = main.name;
-    el.tag.textContent = main.code + " // " + main.title;
+    
+const requiredResults = {
+  name: el.name,
+  tag: el.tag,
+  description: el.description,
+  traits: el.traits,
+  second: el.second,
+  bars: el.bars
+};
 
-    el.description.textContent = main.description;
+const missing = Object.entries(requiredResults)
+  .filter(([key, element]) => !element)
+  .map(([key]) => key);
+
+if (missing.length > 0) {
+  console.error(
+    "[BloodyCapella] Elementos de resultados inexistentes:",
+    missing
+  );
+
+  alert(
+    "No se puede mostrar el resultado. Faltan estos elementos: " +
+    missing.join(", ")
+  );
+
+  return;
+}
+
+el.name.textContent = main.name;
+el.tag.textContent = main.code + " // " + main.title;
+el.description.textContent = main.description;
 
     // Características del personaje.
     el.traits.replaceChildren();
