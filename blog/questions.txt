@@ -919,7 +919,6 @@
       }
     ]
   },
-[
   {
     "id": "BC-041",
     "category": "interests",
@@ -1377,6 +1376,1156 @@
       {
         "text": "Elegir mi propio camino con claridad.",
         "character": "twyla"
+      }
+    ]
+  },
+  {
+    "id": "BC-061",
+    "category": "decisions",
+    "question": "Te encuentras con una oportunidad que podría cambiar tu vida. ¿Cómo reaccionas?",
+    "answers": [
+      {
+        "text": "Hago lo que me divierta; no pienso fingir que sigo las reglas.",
+        "character": "crowven"
+      },
+      {
+        "text": "Observo las acciones, no las promesas, antes de confiar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Reúno al grupo y convierto las diferencias en cooperación.",
+        "character": "embry"
+      },
+      {
+        "text": "Calculo qué obtengo a cambio y si la ventaja vale el riesgo.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-062",
+    "category": "relationships",
+    "question": "Alguien intenta acercarse, pero todavía no sabes si confiar. ¿Qué haces?",
+    "answers": [
+      {
+        "text": "Improviso, provoco un poco y veo qué sucede.",
+        "character": "crowven"
+      },
+      {
+        "text": "Busco la oportunidad que más beneficie mis propios intereses.",
+        "character": "stelman"
+      },
+      {
+        "text": "Protejo a mi familia elegida, pero sin traicionar mis principios.",
+        "character": "savannah"
+      },
+      {
+        "text": "Me acerco con ternura y procuro no perder la alegría.",
+        "character": "mary"
+      }
+    ]
+  },
+  {
+    "id": "BC-063",
+    "category": "emotions",
+    "question": "Cuando tus emociones se vuelven difíciles de ordenar, ¿qué necesitas?",
+    "answers": [
+      {
+        "text": "Me cuesta decirlo, pero defendería con uñas y dientes a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Busco una forma de convertir la dificultad en aprendizaje.",
+        "character": "honey"
+      },
+      {
+        "text": "Busco honestidad y coherencia, incluso cuando la verdad incomoda.",
+        "character": "savannah"
+      },
+      {
+        "text": "No invierto recursos en algo que no me reporte beneficio.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-064",
+    "category": "mystery",
+    "question": "Descubres una habitación que no aparece en los planos. ¿Cuál es tu primer impulso?",
+    "answers": [
+      {
+        "text": "Prefiero construir acuerdos y mantener al equipo unido.",
+        "character": "embry"
+      },
+      {
+        "text": "Prefiero mi propio caos antes que obedecer un orden absurdo.",
+        "character": "crowven"
+      },
+      {
+        "text": "Si hay una apuesta, primero calculo cómo puedo ganar.",
+        "character": "stelman"
+      },
+      {
+        "text": "Me mantengo firme, aunque también recuerdo que necesito descansar.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-065",
+    "category": "values",
+    "question": "¿Qué debería pesar más al tomar una decisión importante?",
+    "answers": [
+      {
+        "text": "Respondo con calidez, aunque la situación sea complicada.",
+        "character": "mary"
+      },
+      {
+        "text": "Me interesa tener el control de la situación y salir ganando.",
+        "character": "stelman"
+      },
+      {
+        "text": "Disimulo el afecto con sarcasmo, aunque no dejaría solos a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Elijo con el corazón, pero dejo que los hechos confirmen mi decisión.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-066",
+    "category": "leadership",
+    "question": "Tu equipo está dividido y nadie quiere ceder. ¿Cómo intervienes?",
+    "answers": [
+      {
+        "text": "Hago lo que me divierta; no pienso fingir que sigo las reglas.",
+        "character": "crowven"
+      },
+      {
+        "text": "Transformo lo ocurrido en experiencia para seguir adelante.",
+        "character": "honey"
+      },
+      {
+        "text": "Calculo qué obtengo a cambio y si la ventaja vale el riesgo.",
+        "character": "stelman"
+      },
+      {
+        "text": "Observo las acciones, no las promesas, antes de confiar.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-067",
+    "category": "ambition",
+    "question": "¿Qué te impulsa a perseguir una meta complicada?",
+    "answers": [
+      {
+        "text": "Busco que cada persona entienda su papel en el objetivo común.",
+        "character": "embry"
+      },
+      {
+        "text": "Protejo a mi familia elegida, pero sin traicionar mis principios.",
+        "character": "savannah"
+      },
+      {
+        "text": "Improviso, provoco un poco y veo qué sucede.",
+        "character": "crowven"
+      },
+      {
+        "text": "Busco la oportunidad que más beneficie mis propios intereses.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-068",
+    "category": "environment",
+    "question": "¿Qué espacio elegirías como refugio personal?",
+    "answers": [
+      {
+        "text": "Me pregunto qué verdad se esconde bajo las apariencias.",
+        "character": "alba"
+      },
+      {
+        "text": "Me cuesta decirlo, pero defendería con uñas y dientes a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "No invierto recursos en algo que no me reporte beneficio.",
+        "character": "stelman"
+      },
+      {
+        "text": "Busco honestidad y coherencia, incluso cuando la verdad incomoda.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-069",
+    "category": "resilience",
+    "question": "Después de cometer un error que afecta a otros, ¿qué haces?",
+    "answers": [
+      {
+        "text": "Si hay una apuesta, primero calculo cómo puedo ganar.",
+        "character": "stelman"
+      },
+      {
+        "text": "Prefiero mi propio caos antes que obedecer un orden absurdo.",
+        "character": "crowven"
+      },
+      {
+        "text": "Necesito recordar que todavía existen cosas bonitas.",
+        "character": "mary"
+      },
+      {
+        "text": "Me mantengo firme, aunque también recuerdo que necesito descansar.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-070",
+    "category": "philosophy",
+    "question": "¿Qué frase se acerca más a tu manera de ver el mundo?",
+    "answers": [
+      {
+        "text": "Intento salir de la experiencia con una comprensión más profunda.",
+        "character": "honey"
+      },
+      {
+        "text": "Elijo con el corazón, pero dejo que los hechos confirmen mi decisión.",
+        "character": "savannah"
+      },
+      {
+        "text": "Disimulo el afecto con sarcasmo, aunque no dejaría solos a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Me interesa tener el control de la situación y salir ganando.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-071",
+    "category": "interests",
+    "question": "Te conceden un día sin obligaciones. ¿En qué lo invertirías?",
+    "answers": [
+      {
+        "text": "Calculo qué obtengo a cambio y si la ventaja vale el riesgo.",
+        "character": "stelman"
+      },
+      {
+        "text": "Reúno al grupo y convierto las diferencias en cooperación.",
+        "character": "embry"
+      },
+      {
+        "text": "Hago lo que me divierta; no pienso fingir que sigo las reglas.",
+        "character": "crowven"
+      },
+      {
+        "text": "Observo las acciones, no las promesas, antes de confiar.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-072",
+    "category": "relationships",
+    "question": "Una persona importante para ti está pasando por un mal momento. ¿Cómo lo demuestras?",
+    "answers": [
+      {
+        "text": "Improviso, provoco un poco y veo qué sucede.",
+        "character": "crowven"
+      },
+      {
+        "text": "Examino los símbolos, los antecedentes y aquello que fue olvidado.",
+        "character": "alba"
+      },
+      {
+        "text": "Protejo a mi familia elegida, pero sin traicionar mis principios.",
+        "character": "savannah"
+      },
+      {
+        "text": "Busco la oportunidad que más beneficie mis propios intereses.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-073",
+    "category": "decisions",
+    "question": "Debes elegir entre una ruta segura y otra desconocida. ¿Cuál tomas?",
+    "answers": [
+      {
+        "text": "Me cuesta decirlo, pero defendería con uñas y dientes a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Busco honestidad y coherencia, incluso cuando la verdad incomoda.",
+        "character": "savannah"
+      },
+      {
+        "text": "No invierto recursos en algo que no me reporte beneficio.",
+        "character": "stelman"
+      },
+      {
+        "text": "Valoro los pequeños gestos que hacen sentir acompañado.",
+        "character": "mary"
+      }
+    ]
+  },
+  {
+    "id": "BC-074",
+    "category": "values",
+    "question": "¿Qué conducta rompe definitivamente tu respeto por alguien?",
+    "answers": [
+      {
+        "text": "Me mantengo firme, aunque también recuerdo que necesito descansar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Prefiero mi propio caos antes que obedecer un orden absurdo.",
+        "character": "crowven"
+      },
+      {
+        "text": "Recuerdo por qué empecé y continúo a mi manera.",
+        "character": "honey"
+      },
+      {
+        "text": "Si hay una apuesta, primero calculo cómo puedo ganar.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-075",
+    "category": "mystery",
+    "question": "Recibes una carta sin remitente y con una sola frase. ¿Qué haces?",
+    "answers": [
+      {
+        "text": "Disimulo el afecto con sarcasmo, aunque no dejaría solos a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Me concentro en que el plan funcione para todos.",
+        "character": "embry"
+      },
+      {
+        "text": "Me interesa tener el control de la situación y salir ganando.",
+        "character": "stelman"
+      },
+      {
+        "text": "Elijo con el corazón, pero dejo que los hechos confirmen mi decisión.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-076",
+    "category": "leadership",
+    "question": "Una crisis exige actuar en segundos. ¿Qué priorizas?",
+    "answers": [
+      {
+        "text": "Calculo qué obtengo a cambio y si la ventaja vale el riesgo.",
+        "character": "stelman"
+      },
+      {
+        "text": "Observo las acciones, no las promesas, antes de confiar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Hago lo que me divierta; no pienso fingir que sigo las reglas.",
+        "character": "crowven"
+      },
+      {
+        "text": "Busco el significado oculto detrás de lo evidente.",
+        "character": "alba"
+      }
+    ]
+  },
+  {
+    "id": "BC-077",
+    "category": "emotions",
+    "question": "¿Cómo sueles reaccionar cuando alguien hiere tu orgullo?",
+    "answers": [
+      {
+        "text": "Improviso, provoco un poco y veo qué sucede.",
+        "character": "crowven"
+      },
+      {
+        "text": "Busco la oportunidad que más beneficie mis propios intereses.",
+        "character": "stelman"
+      },
+      {
+        "text": "Me acerco con ternura y procuro no perder la alegría.",
+        "character": "mary"
+      },
+      {
+        "text": "Protejo a mi familia elegida, pero sin traicionar mis principios.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-078",
+    "category": "ambition",
+    "question": "¿Qué clase de éxito te resultaría más satisfactorio?",
+    "answers": [
+      {
+        "text": "Me cuesta decirlo, pero defendería con uñas y dientes a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "No invierto recursos en algo que no me reporte beneficio.",
+        "character": "stelman"
+      },
+      {
+        "text": "Busco una forma de convertir la dificultad en aprendizaje.",
+        "character": "honey"
+      },
+      {
+        "text": "Busco honestidad y coherencia, incluso cuando la verdad incomoda.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-079",
+    "category": "environment",
+    "question": "¿Qué paisaje te haría detenerte a contemplarlo?",
+    "answers": [
+      {
+        "text": "Prefiero mi propio caos antes que obedecer un orden absurdo.",
+        "character": "crowven"
+      },
+      {
+        "text": "Me mantengo firme, aunque también recuerdo que necesito descansar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Si hay una apuesta, primero calculo cómo puedo ganar.",
+        "character": "stelman"
+      },
+      {
+        "text": "Prefiero construir acuerdos y mantener al equipo unido.",
+        "character": "embry"
+      }
+    ]
+  },
+  {
+    "id": "BC-080",
+    "category": "relationships",
+    "question": "En una amistad, ¿qué consideras una prueba real de afecto?",
+    "answers": [
+      {
+        "text": "Actúo con disciplina y espero que los demás cumplan su parte.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Elijo con el corazón, pero dejo que los hechos confirmen mi decisión.",
+        "character": "savannah"
+      },
+      {
+        "text": "Me interesa tener el control de la situación y salir ganando.",
+        "character": "stelman"
+      },
+      {
+        "text": "Disimulo el afecto con sarcasmo, aunque no dejaría solos a los míos.",
+        "character": "crowven"
+      }
+    ]
+  },
+  {
+    "id": "BC-081",
+    "category": "decisions",
+    "question": "Un plan empieza a salir mal. ¿Cuál es tu siguiente movimiento?",
+    "answers": [
+      {
+        "text": "Observo las acciones, no las promesas, antes de confiar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Hago lo que me divierta; no pienso fingir que sigo las reglas.",
+        "character": "crowven"
+      },
+      {
+        "text": "Calculo qué obtengo a cambio y si la ventaja vale el riesgo.",
+        "character": "stelman"
+      },
+      {
+        "text": "Busco el significado oculto detrás de lo evidente.",
+        "character": "alba"
+      }
+    ]
+  },
+  {
+    "id": "BC-082",
+    "category": "philosophy",
+    "question": "¿Qué significa para ti tener libertad?",
+    "answers": [
+      {
+        "text": "Protejo a mi familia elegida, pero sin traicionar mis principios.",
+        "character": "savannah"
+      },
+      {
+        "text": "Improviso, provoco un poco y veo qué sucede.",
+        "character": "crowven"
+      },
+      {
+        "text": "Me acerco con ternura y procuro no perder la alegría.",
+        "character": "mary"
+      },
+      {
+        "text": "Busco la oportunidad que más beneficie mis propios intereses.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-083",
+    "category": "interests",
+    "question": "¿Qué proyecto te gustaría comenzar sin saber si funcionará?",
+    "answers": [
+      {
+        "text": "No invierto recursos en algo que no me reporte beneficio.",
+        "character": "stelman"
+      },
+      {
+        "text": "Busco una forma de convertir la dificultad en aprendizaje.",
+        "character": "honey"
+      },
+      {
+        "text": "Me cuesta decirlo, pero defendería con uñas y dientes a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Busco honestidad y coherencia, incluso cuando la verdad incomoda.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-084",
+    "category": "resilience",
+    "question": "Cuando todo parece avanzar demasiado lento, ¿qué te mantiene?",
+    "answers": [
+      {
+        "text": "Si hay una apuesta, primero calculo cómo puedo ganar.",
+        "character": "stelman"
+      },
+      {
+        "text": "Prefiero mi propio caos antes que obedecer un orden absurdo.",
+        "character": "crowven"
+      },
+      {
+        "text": "Me mantengo firme, aunque también recuerdo que necesito descansar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Prefiero construir acuerdos y mantener al equipo unido.",
+        "character": "embry"
+      }
+    ]
+  },
+  {
+    "id": "BC-085",
+    "category": "values",
+    "question": "¿Qué harías si descubrieras que alguien cercano te mintió?",
+    "answers": [
+      {
+        "text": "Actúo con disciplina y espero que los demás cumplan su parte.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Disimulo el afecto con sarcasmo, aunque no dejaría solos a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Elijo con el corazón, pero dejo que los hechos confirmen mi decisión.",
+        "character": "savannah"
+      },
+      {
+        "text": "Me interesa tener el control de la situación y salir ganando.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-086",
+    "category": "mystery",
+    "question": "Encuentras un objeto que parece pertenecer a otra época. ¿Qué te interesa?",
+    "answers": [
+      {
+        "text": "Observo las acciones, no las promesas, antes de confiar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Busco el significado oculto detrás de lo evidente.",
+        "character": "alba"
+      },
+      {
+        "text": "Calculo qué obtengo a cambio y si la ventaja vale el riesgo.",
+        "character": "stelman"
+      },
+      {
+        "text": "Hago lo que me divierta; no pienso fingir que sigo las reglas.",
+        "character": "crowven"
+      }
+    ]
+  },
+  {
+    "id": "BC-087",
+    "category": "leadership",
+    "question": "¿Qué esperas de las personas que trabajan contigo?",
+    "answers": [
+      {
+        "text": "Me acerco con ternura y procuro no perder la alegría.",
+        "character": "mary"
+      },
+      {
+        "text": "Busco la oportunidad que más beneficie mis propios intereses.",
+        "character": "stelman"
+      },
+      {
+        "text": "Protejo a mi familia elegida, pero sin traicionar mis principios.",
+        "character": "savannah"
+      },
+      {
+        "text": "Me mantengo firme, incluso cuando el camino exige reconstruirme.",
+        "character": "honey"
+      }
+    ]
+  },
+  {
+    "id": "BC-088",
+    "category": "emotions",
+    "question": "¿Qué haces cuando necesitas recuperar la calma?",
+    "answers": [
+      {
+        "text": "Busco honestidad y coherencia, incluso cuando la verdad incomoda.",
+        "character": "savannah"
+      },
+      {
+        "text": "No invierto recursos en algo que no me reporte beneficio.",
+        "character": "stelman"
+      },
+      {
+        "text": "Me cuesta decirlo, pero defendería con uñas y dientes a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Coordino las capacidades disponibles para avanzar juntos.",
+        "character": "embry"
+      }
+    ]
+  },
+  {
+    "id": "BC-089",
+    "category": "ambition",
+    "question": "Si pudieras dominar una habilidad extraordinaria, ¿cuál elegirías?",
+    "answers": [
+      {
+        "text": "Evalúo los hechos y preparo un plan concreto.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Recuerdo por qué empecé y continúo a mi manera.",
+        "character": "honey"
+      },
+      {
+        "text": "Intento reconstruir el origen antes de sacar conclusiones.",
+        "character": "alba"
+      },
+      {
+        "text": "Necesito recordar que todavía existen cosas bonitas.",
+        "character": "mary"
+      }
+    ]
+  },
+  {
+    "id": "BC-090",
+    "category": "relationships",
+    "question": "¿Cómo decides quién merece formar parte de tu círculo cercano?",
+    "answers": [
+      {
+        "text": "Elijo con el corazón, pero dejo que los hechos confirmen mi decisión.",
+        "character": "savannah"
+      },
+      {
+        "text": "Me concentro en que el plan funcione para todos.",
+        "character": "embry"
+      },
+      {
+        "text": "Me interesa tener el control de la situación y salir ganando.",
+        "character": "stelman"
+      },
+      {
+        "text": "Disimulo el afecto con sarcasmo, aunque no dejaría solos a los míos.",
+        "character": "crowven"
+      }
+    ]
+  },
+  {
+    "id": "BC-091",
+    "category": "decisions",
+    "question": "Te proponen un trato con grandes beneficios y riesgos ocultos. ¿Qué haces?",
+    "answers": [
+      {
+        "text": "Establezco prioridades y calculo las consecuencias.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Busco el significado oculto detrás de lo evidente.",
+        "character": "alba"
+      },
+      {
+        "text": "Busco algo sencillo que me devuelva la esperanza.",
+        "character": "mary"
+      },
+      {
+        "text": "Transformo lo ocurrido en experiencia para seguir adelante.",
+        "character": "honey"
+      }
+    ]
+  },
+  {
+    "id": "BC-092",
+    "category": "environment",
+    "question": "¿Qué tipo de lugar te permite pensar con claridad?",
+    "answers": [
+      {
+        "text": "Protejo a mi familia elegida, pero sin traicionar mis principios.",
+        "character": "savannah"
+      },
+      {
+        "text": "Busco que cada persona entienda su papel en el objetivo común.",
+        "character": "embry"
+      },
+      {
+        "text": "Busco la oportunidad que más beneficie mis propios intereses.",
+        "character": "stelman"
+      },
+      {
+        "text": "Improviso, provoco un poco y veo qué sucede.",
+        "character": "crowven"
+      }
+    ]
+  },
+  {
+    "id": "BC-093",
+    "category": "philosophy",
+    "question": "¿Qué pesa más: las intenciones o las consecuencias?",
+    "answers": [
+      {
+        "text": "Me pregunto qué verdad se esconde bajo las apariencias.",
+        "character": "alba"
+      },
+      {
+        "text": "Prefiero una decisión clara que pueda sostenerse a largo plazo.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Valoro los pequeños gestos que hacen sentir acompañado.",
+        "character": "mary"
+      },
+      {
+        "text": "Busco una forma de convertir la dificultad en aprendizaje.",
+        "character": "honey"
+      }
+    ]
+  },
+  {
+    "id": "BC-094",
+    "category": "resilience",
+    "question": "¿Cómo afrontas una etapa en la que debes empezar desde cero?",
+    "answers": [
+      {
+        "text": "Prefiero construir acuerdos y mantener al equipo unido.",
+        "character": "embry"
+      },
+      {
+        "text": "Prefiero mi propio caos antes que obedecer un orden absurdo.",
+        "character": "crowven"
+      },
+      {
+        "text": "Me mantengo firme, aunque también recuerdo que necesito descansar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Si hay una apuesta, primero calculo cómo puedo ganar.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-095",
+    "category": "interests",
+    "question": "¿Qué clase de desafío capta tu atención de inmediato?",
+    "answers": [
+      {
+        "text": "Actúo con disciplina y espero que los demás cumplan su parte.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Me atraen las respuestas que dejan nuevas preguntas.",
+        "character": "alba"
+      },
+      {
+        "text": "Respondo con calidez, aunque la situación sea complicada.",
+        "character": "mary"
+      },
+      {
+        "text": "Intento salir de la experiencia con una comprensión más profunda.",
+        "character": "honey"
+      }
+    ]
+  },
+  {
+    "id": "BC-096",
+    "category": "values",
+    "question": "¿Qué promesa considerarías irrenunciable?",
+    "answers": [
+      {
+        "text": "Reúno al grupo y convierto las diferencias en cooperación.",
+        "character": "embry"
+      },
+      {
+        "text": "Observo las acciones, no las promesas, antes de confiar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Hago lo que me divierta; no pienso fingir que sigo las reglas.",
+        "character": "crowven"
+      },
+      {
+        "text": "Calculo qué obtengo a cambio y si la ventaja vale el riesgo.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-097",
+    "category": "relationships",
+    "question": "Cuando alguien que quieres comete un error grave, ¿cómo respondes?",
+    "answers": [
+      {
+        "text": "Organizo los recursos y asigno responsabilidades.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Me mantengo firme, incluso cuando el camino exige reconstruirme.",
+        "character": "honey"
+      },
+      {
+        "text": "Examino los símbolos, los antecedentes y aquello que fue olvidado.",
+        "character": "alba"
+      },
+      {
+        "text": "Me acerco con ternura y procuro no perder la alegría.",
+        "character": "mary"
+      }
+    ]
+  },
+  {
+    "id": "BC-098",
+    "category": "leadership",
+    "question": "Si nadie reconoce tu esfuerzo, ¿qué haces?",
+    "answers": [
+      {
+        "text": "Me cuesta decirlo, pero defendería con uñas y dientes a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "No invierto recursos en algo que no me reporte beneficio.",
+        "character": "stelman"
+      },
+      {
+        "text": "Coordino las capacidades disponibles para avanzar juntos.",
+        "character": "embry"
+      },
+      {
+        "text": "Busco honestidad y coherencia, incluso cuando la verdad incomoda.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-099",
+    "category": "mystery",
+    "question": "Una conversación se interrumpe cuando entras en una habitación. ¿Cómo reaccionas?",
+    "answers": [
+      {
+        "text": "Intento reconstruir el origen antes de sacar conclusiones.",
+        "character": "alba"
+      },
+      {
+        "text": "Evalúo los hechos y preparo un plan concreto.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Necesito recordar que todavía existen cosas bonitas.",
+        "character": "mary"
+      },
+      {
+        "text": "Recuerdo por qué empecé y continúo a mi manera.",
+        "character": "honey"
+      }
+    ]
+  },
+  {
+    "id": "BC-100",
+    "category": "emotions",
+    "question": "¿Qué te cuesta más admitir frente a otras personas?",
+    "answers": [
+      {
+        "text": "Me interesa tener el control de la situación y salir ganando.",
+        "character": "stelman"
+      },
+      {
+        "text": "Disimulo el afecto con sarcasmo, aunque no dejaría solos a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Me concentro en que el plan funcione para todos.",
+        "character": "embry"
+      },
+      {
+        "text": "Elijo con el corazón, pero dejo que los hechos confirmen mi decisión.",
+        "character": "savannah"
+      }
+    ]
+  },
+  {
+    "id": "BC-101",
+    "category": "ambition",
+    "question": "¿Qué estarías dispuesto a sacrificar para conseguir una meta?",
+    "answers": [
+      {
+        "text": "Busco algo sencillo que me devuelva la esperanza.",
+        "character": "mary"
+      },
+      {
+        "text": "Busco el significado oculto detrás de lo evidente.",
+        "character": "alba"
+      },
+      {
+        "text": "Establezco prioridades y calculo las consecuencias.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Transformo lo ocurrido en experiencia para seguir adelante.",
+        "character": "honey"
+      }
+    ]
+  },
+  {
+    "id": "BC-102",
+    "category": "decisions",
+    "question": "Debes actuar sin tener toda la información. ¿Qué criterio utilizas?",
+    "answers": [
+      {
+        "text": "Busco que cada persona entienda su papel en el objetivo común.",
+        "character": "embry"
+      },
+      {
+        "text": "Protejo a mi familia elegida, pero sin traicionar mis principios.",
+        "character": "savannah"
+      },
+      {
+        "text": "Busco la oportunidad que más beneficie mis propios intereses.",
+        "character": "stelman"
+      },
+      {
+        "text": "Improviso, provoco un poco y veo qué sucede.",
+        "character": "crowven"
+      }
+    ]
+  },
+  {
+    "id": "BC-103",
+    "category": "philosophy",
+    "question": "¿Qué crees que revela verdaderamente el carácter de una persona?",
+    "answers": [
+      {
+        "text": "Me pregunto qué verdad se esconde bajo las apariencias.",
+        "character": "alba"
+      },
+      {
+        "text": "Valoro los pequeños gestos que hacen sentir acompañado.",
+        "character": "mary"
+      },
+      {
+        "text": "Busco una forma de convertir la dificultad en aprendizaje.",
+        "character": "honey"
+      },
+      {
+        "text": "Prefiero una decisión clara que pueda sostenerse a largo plazo.",
+        "character": "corvunson"
+      }
+    ]
+  },
+  {
+    "id": "BC-104",
+    "category": "environment",
+    "question": "¿Qué ambiente elegirías para pasar una noche memorable?",
+    "answers": [
+      {
+        "text": "Prefiero mi propio caos antes que obedecer un orden absurdo.",
+        "character": "crowven"
+      },
+      {
+        "text": "Me mantengo firme, aunque también recuerdo que necesito descansar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Si hay una apuesta, primero calculo cómo puedo ganar.",
+        "character": "stelman"
+      },
+      {
+        "text": "Prefiero construir acuerdos y mantener al equipo unido.",
+        "character": "embry"
+      }
+    ]
+  },
+  {
+    "id": "BC-105",
+    "category": "resilience",
+    "question": "¿Qué haces cuando alguien duda de tu capacidad?",
+    "answers": [
+      {
+        "text": "Respondo con calidez, aunque la situación sea complicada.",
+        "character": "mary"
+      },
+      {
+        "text": "Intento salir de la experiencia con una comprensión más profunda.",
+        "character": "honey"
+      },
+      {
+        "text": "Actúo con disciplina y espero que los demás cumplan su parte.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Me atraen las respuestas que dejan nuevas preguntas.",
+        "character": "alba"
+      }
+    ]
+  },
+  {
+    "id": "BC-106",
+    "category": "interests",
+    "question": "¿Qué guardarías en un archivo personal para el futuro?",
+    "answers": [
+      {
+        "text": "Observo las acciones, no las promesas, antes de confiar.",
+        "character": "savannah"
+      },
+      {
+        "text": "Calculo qué obtengo a cambio y si la ventaja vale el riesgo.",
+        "character": "stelman"
+      },
+      {
+        "text": "Reúno al grupo y convierto las diferencias en cooperación.",
+        "character": "embry"
+      },
+      {
+        "text": "Hago lo que me divierta; no pienso fingir que sigo las reglas.",
+        "character": "crowven"
+      }
+    ]
+  },
+  {
+    "id": "BC-107",
+    "category": "relationships",
+    "question": "¿Qué esperas de alguien que promete permanecer a tu lado?",
+    "answers": [
+      {
+        "text": "Examino los símbolos, los antecedentes y aquello que fue olvidado.",
+        "character": "alba"
+      },
+      {
+        "text": "Me mantengo firme, incluso cuando el camino exige reconstruirme.",
+        "character": "honey"
+      },
+      {
+        "text": "Me acerco con ternura y procuro no perder la alegría.",
+        "character": "mary"
+      },
+      {
+        "text": "Organizo los recursos y asigno responsabilidades.",
+        "character": "corvunson"
+      }
+    ]
+  },
+  {
+    "id": "BC-108",
+    "category": "values",
+    "question": "¿Qué merece una segunda oportunidad?",
+    "answers": [
+      {
+        "text": "Coordino las capacidades disponibles para avanzar juntos.",
+        "character": "embry"
+      },
+      {
+        "text": "Me cuesta decirlo, pero defendería con uñas y dientes a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Busco honestidad y coherencia, incluso cuando la verdad incomoda.",
+        "character": "savannah"
+      },
+      {
+        "text": "No invierto recursos en algo que no me reporte beneficio.",
+        "character": "stelman"
+      }
+    ]
+  },
+  {
+    "id": "BC-109",
+    "category": "leadership",
+    "question": "Un grupo depende de ti, pero también necesitas descansar. ¿Qué haces?",
+    "answers": [
+      {
+        "text": "Intento reconstruir el origen antes de sacar conclusiones.",
+        "character": "alba"
+      },
+      {
+        "text": "Evalúo los hechos y preparo un plan concreto.",
+        "character": "corvunson"
+      },
+      {
+        "text": "Recuerdo por qué empecé y continúo a mi manera.",
+        "character": "honey"
+      },
+      {
+        "text": "Necesito recordar que todavía existen cosas bonitas.",
+        "character": "mary"
+      }
+    ]
+  },
+  {
+    "id": "BC-110",
+    "category": "mystery",
+    "question": "Descubres que una historia que todos creen cierta tiene otra versión. ¿Qué haces?",
+    "answers": [
+      {
+        "text": "Me concentro en que el plan funcione para todos.",
+        "character": "embry"
+      },
+      {
+        "text": "Disimulo el afecto con sarcasmo, aunque no dejaría solos a los míos.",
+        "character": "crowven"
+      },
+      {
+        "text": "Elijo con el corazón, pero dejo que los hechos confirmen mi decisión.",
+        "character": "savannah"
+      },
+      {
+        "text": "Me interesa tener el control de la situación y salir ganando.",
+        "character": "stelman"
       }
     ]
   }
