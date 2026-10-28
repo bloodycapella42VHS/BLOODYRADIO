@@ -80,31 +80,34 @@
       throw new Error("Faltan las direcciones de los archivos.");
     }
 
-    const responses = await Promise.all([
-      fetch(qURL, { cache: "no-store" }),
-      fetch(cURL, { cache: "no-store" })
+    async function fetchJSON(url, filename) {
+      const response = await fetch(url);
+
+      if (!response.ok) {
+        throw new Error(
+          filename + ": error HTTP " + response.status
+        );
+      }
+
+      try {
+        return await response.json();
+      } catch (error) {
+        throw new Error(
+          "JSON inválido en " + filename + ": " + error.message
+        );
+      }
+    }
+
+    const [q, c] = await Promise.all([
+      fetchJSON(qURL, "questions.txt"),
+      fetchJSON(cURL, "characters.json")
     ]);
-
-    if (!responses[0].ok) {
-      throw new Error("No se pudo cargar questions.txt.");
-    }
-
-    if (!responses[1].ok) {
-      throw new Error("No se pudo cargar characters.json.");
-    }
-
-    const data = await Promise.all(
-      responses.map(response => response.json())
-    );
-
-    const q = data[0];
-    const c = data[1];
 
     if (!Array.isArray(q) || q.length < COUNT) {
       throw new Error("Se necesitan al menos 30 preguntas.");
     }
 
-    if (!c || typeof c !== "object") {
+    if (!c || typeof c !== "object" || Array.isArray(c)) {
       throw new Error("El archivo de personajes no es válido.");
     }
 
@@ -112,14 +115,13 @@
 
     q.forEach((item, position) => {
       if (
+        !item ||
         !item.id ||
         !item.question ||
         !Array.isArray(item.answers) ||
         item.answers.length < 2
       ) {
-        throw new Error(
-          "Pregunta inválida: " + (position + 1)
-        );
+        throw new Error("Pregunta inválida: " + (position + 1));
       }
 
       if (ids.has(item.id)) {
@@ -129,10 +131,13 @@
       ids.add(item.id);
 
       item.answers.forEach(answer => {
-        if (!answer.text || !c[answer.character]) {
-          throw new Error(
-            "Respuesta incorrecta en " + item.id
-          );
+        if (
+          !answer ||
+          !answer.text ||
+          !answer.character ||
+          !Object.prototype.hasOwnProperty.call(c, answer.character)
+        ) {
+          throw new Error("Respuesta incorrecta en " + item.id);
         }
       });
     });
@@ -468,44 +473,3 @@ el.description.textContent = main.description;
   })();
 
 })();
-
-async function load() {
-  if (!qURL || !cURL) {
-    throw new Error("Faltan las direcciones de los archivos.");
-  }
-
-  async function fetchJSON(url, filename) {
-    const response = await fetch(url);
-
-    if (!response.ok) {
-      throw new Error(
-        filename + ": error HTTP " + response.status
-      );
-    }
-
-    try {
-      return await response.json();
-    } catch (error) {
-      throw new Error(
-        "Error al interpretar " + filename + ": " +
-        error.message
-      );
-    }
-  }
-
-  const [q, c] = await Promise.all([
-    fetchJSON(qURL, "questions.txt"),
-    fetchJSON(cURL, "characters.json")
-  ]);
-
-  if (!Array.isArray(q) || q.length < COUNT) {
-    throw new Error("No hay suficientes preguntas.");
-  }
-
-  if (!c || typeof c !== "object" || Array.isArray(c)) {
-    throw new Error("El archivo de personajes no es válido.");
-  }
-
-  questions = q;
-  characters = c;
-}
