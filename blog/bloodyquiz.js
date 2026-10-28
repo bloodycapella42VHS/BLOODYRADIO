@@ -468,3 +468,44 @@ el.description.textContent = main.description;
   })();
 
 })();
+
+async function load() {
+  if (!qURL || !cURL) {
+    throw new Error("Faltan las direcciones de los archivos.");
+  }
+
+  async function fetchJSON(url, filename) {
+    const response = await fetch(url);
+
+    if (!response.ok) {
+      throw new Error(
+        filename + ": error HTTP " + response.status
+      );
+    }
+
+    try {
+      return await response.json();
+    } catch (error) {
+      throw new Error(
+        "Error al interpretar " + filename + ": " +
+        error.message
+      );
+    }
+  }
+
+  const [q, c] = await Promise.all([
+    fetchJSON(qURL, "questions.txt"),
+    fetchJSON(cURL, "characters.json")
+  ]);
+
+  if (!Array.isArray(q) || q.length < COUNT) {
+    throw new Error("No hay suficientes preguntas.");
+  }
+
+  if (!c || typeof c !== "object" || Array.isArray(c)) {
+    throw new Error("El archivo de personajes no es válido.");
+  }
+
+  questions = q;
+  characters = c;
+}
