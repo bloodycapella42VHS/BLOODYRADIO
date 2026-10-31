@@ -103,7 +103,9 @@
     const traits = [...root.querySelectorAll("#bc-traits .bc-trait")]
       .map(item => safeText(item)).filter(Boolean);
     const imageElement = $("bc-result-image");
-    const imageURL = imageElement && !imageElement.hidden ? imageElement.currentSrc || imageElement.src : "";
+    const imageURL = imageElement
+      ? (imageElement.dataset.originalSrc || imageElement.currentSrc || imageElement.src || "").trim()
+      : "";
     const bars = [...root.querySelectorAll("#bc-bars .bc-score-row")].map(row => ({
       name: safeText(row.querySelector(".bc-score-label span")),
       score: safeText(row.querySelector(".bc-score-label strong"))
@@ -181,8 +183,19 @@
     return new Promise(resolve => {
       const image = new Image();
       image.crossOrigin = "anonymous";
-      image.onload = () => { imageObject = image; resolve(image); };
-      image.onerror = () => { imageObject = null; resolve(null); };
+      image.referrerPolicy = "no-referrer";
+      image.onload = () => {
+        imageObject = image;
+        resolve(image);
+      };
+      image.onerror = () => {
+        imageObject = null;
+        console.warn(
+          "[BloodyCapella Share] No se pudo cargar el retrato para el PNG. Revisa la URL y los permisos CORS:",
+          url
+        );
+        resolve(null);
+      };
       image.src = url;
     });
   }
@@ -409,7 +422,9 @@
     await loadPortrait(cardData.imageURL);
     if(currentAttempt!==imageAttempt)return;
     renderCard();
-    setStatus(imageObject?"TARJETA LISTA PARA EXPORTAR.":"TARJETA LISTA. RETRATO NO DISPONIBLE PARA EXPORTACIÓN.");
+    setStatus(imageObject
+      ? "TARJETA LISTA CON RETRATO."
+      : "TARJETA LISTA, PERO EL RETRATO NO SE PUDO INCLUIR. Revisa la URL directa y CORS.");
   }
 
   function close() {
