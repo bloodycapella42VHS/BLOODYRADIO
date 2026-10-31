@@ -40,6 +40,42 @@
     bars: $("bc-bars")
   };
 
+
+  // Si la entrada de Blogger no incluye el <img>, lo crea automáticamente.
+  if (!el.image && el.name) {
+    const portrait = document.createElement("img");
+    portrait.id = "bc-result-image";
+    portrait.className = "bc-result-image";
+    portrait.alt = "Retrato del personaje";
+    portrait.hidden = true;
+    el.name.parentNode.insertBefore(portrait, el.name);
+    el.image = portrait;
+  }
+
+  // Estilos base del retrato: se muestran directamente en la pantalla de resultados.
+  if (!document.getElementById("bc-result-image-style")) {
+    const portraitStyle = document.createElement("style");
+    portraitStyle.id = "bc-result-image-style";
+    portraitStyle.textContent = `
+      #bc-quiz .bc-result-image {
+        display: block;
+        width: min(100%, 360px);
+        max-height: 520px;
+        aspect-ratio: 3 / 4;
+        object-fit: cover;
+        object-position: center;
+        margin: 22px auto;
+        border: 1px solid rgba(195,164,119,.8);
+        outline: 1px solid rgba(195,164,119,.22);
+        outline-offset: 6px;
+        box-shadow: 0 12px 38px rgba(0,0,0,.45), 0 0 24px rgba(130,45,65,.22);
+        background: #100d12;
+      }
+      #bc-quiz .bc-result-image[hidden] { display: none !important; }
+    `;
+    document.head.appendChild(portraitStyle);
+  }
+
   const COUNT = 30;
   const MAX_POINTS_PER_ANSWER = 3;
   const qURL = root.dataset.questionsUrl;
@@ -390,10 +426,18 @@
             el.image.onerror = () => {
               el.image.hidden = true;
               el.image.removeAttribute("src");
-              console.warn("[BloodyCapella] No se pudo cargar el retrato:", imageURL);
+              console.warn(
+                "[BloodyCapella] No se pudo cargar el retrato. Comprueba que image contenga una URL directa de imagen:",
+                imageURL
+              );
             };
-            el.image.src = parsedURL.href;
+            el.image.onload = () => {
+              el.image.hidden = false;
+            };
             el.image.alt = "Retrato de " + (main.name || winner);
+            el.image.loading = "eager";
+            el.image.decoding = "async";
+            el.image.src = parsedURL.href;
             el.image.hidden = false;
           } else {
             el.image.hidden = true;
