@@ -1,0 +1,545 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-04T21:54:46.640Z",
+  "repository": "bloodycapella42VHS/BLOODYRADIO",
+  "branch": "main",
+  "base_path": "blog",
+  "assets": [
+    {
+      "name": "_.jpeg",
+      "path": "_.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/_.jpeg",
+      "size": 50371
+    },
+    {
+      "name": "@bibivanini.jpeg",
+      "path": "@bibivanini.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/%40bibivanini.jpeg",
+      "size": 43210
+    },
+    {
+      "name": "@kusariama.jpeg",
+      "path": "@kusariama.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/%40kusariama.jpeg",
+      "size": 48866
+    },
+    {
+      "name": "@saturaet.jpeg",
+      "path": "@saturaet.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/%40saturaet.jpeg",
+      "size": 20923
+    },
+    {
+      "name": "#GothicPhotography.jpeg",
+      "path": "#GothicPhotography.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/%23GothicPhotography.jpeg",
+      "size": 42902
+    },
+    {
+      "name": "#red.jpeg",
+      "path": "#red.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/%23red.jpeg",
+      "size": 71568
+    },
+    {
+      "name": "🪦₊⊹₊࿔_.jpeg",
+      "path": "🪦₊⊹₊࿔_.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/%F0%9F%AA%A6%E2%82%8A%E2%8A%B9%E2%82%8A%E0%BF%94_.jpeg",
+      "size": 112085
+    },
+    {
+      "name": "1035546508098849346.jpeg",
+      "path": "1035546508098849346.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1035546508098849346.jpeg",
+      "size": 71868
+    },
+    {
+      "name": "1037446464150763731.jpeg",
+      "path": "1037446464150763731.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1037446464150763731.jpeg",
+      "size": 148208
+    },
+    {
+      "name": "1082552830352699961.jpeg",
+      "path": "1082552830352699961.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1082552830352699961.jpeg",
+      "size": 52599
+    },
+    {
+      "name": "1082552830352699963.jpeg",
+      "path": "1082552830352699963.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1082552830352699963.jpeg",
+      "size": 58633
+    },
+    {
+      "name": "1087830484984244221.jpeg",
+      "path": "1087830484984244221.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1087830484984244221.jpeg",
+      "size": 125943
+    },
+    {
+      "name": "1094093303297252314.jpeg",
+      "path": "1094093303297252314.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1094093303297252314.jpeg",
+      "size": 67114
+    },
+    {
+      "name": "1108378158338265785.jpeg",
+      "path": "1108378158338265785.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1108378158338265785.jpeg",
+      "size": 78271
+    },
+    {
+      "name": "1116048351423274432.jpeg",
+      "path": "1116048351423274432.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1116048351423274432.jpeg",
+      "size": 51962
+    },
+    {
+      "name": "1121326007240920608.jpeg",
+      "path": "1121326007240920608.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1121326007240920608.jpeg",
+      "size": 134375
+    },
+    {
+      "name": "1135188649858266396 (1).jpeg",
+      "path": "1135188649858266396 (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1135188649858266396%20(1).jpeg",
+      "size": 112566
+    },
+    {
+      "name": "1135188649858266396.jpeg",
+      "path": "1135188649858266396.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1135188649858266396.jpeg",
+      "size": 112566
+    },
+    {
+      "name": "488640628314761605.jpeg",
+      "path": "488640628314761605.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/488640628314761605.jpeg",
+      "size": 40415
+    },
+    {
+      "name": "537617274252623594.jpeg",
+      "path": "537617274252623594.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/537617274252623594.jpeg",
+      "size": 77458
+    },
+    {
+      "name": "561190803578396580.jpeg",
+      "path": "561190803578396580.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/561190803578396580.jpeg",
+      "size": 98397
+    },
+    {
+      "name": "578571883432269085.jpeg",
+      "path": "578571883432269085.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/578571883432269085.jpeg",
+      "size": 100280
+    },
+    {
+      "name": "581668108142719055.jpeg",
+      "path": "581668108142719055.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/581668108142719055.jpeg",
+      "size": 89809
+    },
+    {
+      "name": "647533252715879224 (1).jpeg",
+      "path": "647533252715879224 (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/647533252715879224%20(1).jpeg",
+      "size": 29700
+    },
+    {
+      "name": "685954587008421349.jpeg",
+      "path": "685954587008421349.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/685954587008421349.jpeg",
+      "size": 10403
+    },
+    {
+      "name": "728598046012967473 (1).jpeg",
+      "path": "728598046012967473 (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/728598046012967473%20(1).jpeg",
+      "size": 48169
+    },
+    {
+      "name": "752734525254279135.jpeg",
+      "path": "752734525254279135.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/752734525254279135.jpeg",
+      "size": 56184
+    },
+    {
+      "name": "807551776917892874.jpeg",
+      "path": "807551776917892874.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/807551776917892874.jpeg",
+      "size": 22057
+    },
+    {
+      "name": "810648001717320143.jpeg",
+      "path": "810648001717320143.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/810648001717320143.jpeg",
+      "size": 82721
+    },
+    {
+      "name": "828521662735546562.jpeg",
+      "path": "828521662735546562.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/828521662735546562.jpeg",
+      "size": 102242
+    },
+    {
+      "name": "841821355387332048.jpeg",
+      "path": "841821355387332048.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/841821355387332048.jpeg",
+      "size": 28041
+    },
+    {
+      "name": "847169379905298969.jpeg",
+      "path": "847169379905298969.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/847169379905298969.jpeg",
+      "size": 17364
+    },
+    {
+      "name": "871376227902114589.jpeg",
+      "path": "871376227902114589.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/871376227902114589.jpeg",
+      "size": 60535
+    },
+    {
+      "name": "923871311036643412.jpeg",
+      "path": "923871311036643412.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/923871311036643412.jpeg",
+      "size": 75170
+    },
+    {
+      "name": "929148966858239446.jpeg",
+      "path": "929148966858239446.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/929148966858239446.jpeg",
+      "size": 177994
+    },
+    {
+      "name": "937733953642751006.jpeg",
+      "path": "937733953642751006.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/937733953642751006.jpeg",
+      "size": 27980
+    },
+    {
+      "name": "939352434782056468.jpeg",
+      "path": "939352434782056468.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/939352434782056468.jpeg",
+      "size": 118121
+    },
+    {
+      "name": "967288826216735997.jpeg",
+      "path": "967288826216735997.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/967288826216735997.jpeg",
+      "size": 131342
+    },
+    {
+      "name": "975803444278881989.jpeg",
+      "path": "975803444278881989.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/975803444278881989.jpeg",
+      "size": 66636
+    },
+    {
+      "name": "991777149201366022.jpeg",
+      "path": "991777149201366022.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/991777149201366022.jpeg",
+      "size": 45650
+    },
+    {
+      "name": "Back To The Heart.jpeg",
+      "path": "Back To The Heart.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Back%20To%20The%20Heart.jpeg",
+      "size": 105089
+    },
+    {
+      "name": "brumous (adj_) of grey skies and winter days….jpeg",
+      "path": "brumous (adj_) of grey skies and winter days….jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/brumous%20(adj_)%20of%20grey%20skies%20and%20winter%20days%E2%80%A6.jpeg",
+      "size": 50942
+    },
+    {
+      "name": "Dim Horizon Studio.jpeg",
+      "path": "Dim Horizon Studio.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Dim%20Horizon%20Studio.jpeg",
+      "size": 125638
+    },
+    {
+      "name": "Don’t repost it 🎀.jpeg",
+      "path": "Don’t repost it 🎀.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Don%E2%80%99t%20repost%20it%20%F0%9F%8E%80.jpeg",
+      "size": 100390
+    },
+    {
+      "name": "foggy cold creepy grunge abandoned swing photo aesthetic.jpeg",
+      "path": "foggy cold creepy grunge abandoned swing photo aesthetic.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/foggy%20cold%20creepy%20grunge%20abandoned%20swing%20photo%20aesthetic.jpeg",
+      "size": 31681
+    },
+    {
+      "name": "Foto Bridget Strzepek.jpeg",
+      "path": "Foto Bridget Strzepek.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Foto%20Bridget%20Strzepek.jpeg",
+      "size": 17034
+    },
+    {
+      "name": "Gothic Circular Frame, Gothic, Dark, Circular PNG Transparent Image and Clipart for Free Download (1).jpeg",
+      "path": "Gothic Circular Frame, Gothic, Dark, Circular PNG Transparent Image and Clipart for Free Download (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Gothic%20Circular%20Frame%2C%20Gothic%2C%20Dark%2C%20Circular%20PNG%20Transparent%20Image%20and%20Clipart%20for%20Free%20Download%20(1).jpeg",
+      "size": 51107
+    },
+    {
+      "name": "join it please.jpeg",
+      "path": "join it please.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/join%20it%20please.jpeg",
+      "size": 69172
+    },
+    {
+      "name": "pinterest_ nostagiari.jpeg",
+      "path": "pinterest_ nostagiari.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/pinterest_%20nostagiari.jpeg",
+      "size": 93750
+    },
+    {
+      "name": "raven i by radvisual.jpeg",
+      "path": "raven i by radvisual.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/raven%20i%20by%20radvisual.jpeg",
+      "size": 60902
+    },
+    {
+      "name": "Requiem For A Beating Heart 🖤  #gothart #goth #art #mycreation #kunst #fantasy.jpeg",
+      "path": "Requiem For A Beating Heart 🖤  #gothart #goth #art #mycreation #kunst #fantasy.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Requiem%20For%20A%20Beating%20Heart%20%F0%9F%96%A4%20%20%23gothart%20%23goth%20%23art%20%23mycreation%20%23kunst%20%23fantasy.jpeg",
+      "size": 194430
+    },
+    {
+      "name": "roses.jpeg",
+      "path": "roses.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/roses.jpeg",
+      "size": 36459
+    },
+    {
+      "name": "rusreal.jpeg",
+      "path": "rusreal.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/rusreal.jpeg",
+      "size": 47961
+    },
+    {
+      "name": "skapovais on ig_.jpeg",
+      "path": "skapovais on ig_.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/skapovais%20on%20ig_.jpeg",
+      "size": 137611
+    },
+    {
+      "name": "Victorian, gothic architecture.jpeg",
+      "path": "Victorian, gothic architecture.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Victorian%2C%20gothic%20architecture.jpeg",
+      "size": 59573
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 10.46.53 AM.jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 10.46.53 AM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2010.46.53%20AM.jpeg",
+      "size": 37671
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.34 AM (1).jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.34 AM (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.34%20AM%20(1).jpeg",
+      "size": 46515
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.34 AM.jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.34 AM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.34%20AM.jpeg",
+      "size": 66061
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.39 AM (1).jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.39 AM (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.39%20AM%20(1).jpeg",
+      "size": 56774
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.39 AM (2).jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.39 AM (2).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.39%20AM%20(2).jpeg",
+      "size": 52912
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.39 AM (3).jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.39 AM (3).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.39%20AM%20(3).jpeg",
+      "size": 22334
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.39 AM.jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.39 AM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.39%20AM.jpeg",
+      "size": 29629
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.40 AM (1).jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.40 AM (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.40%20AM%20(1).jpeg",
+      "size": 53013
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.40 AM (2).jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.40 AM (2).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.40%20AM%20(2).jpeg",
+      "size": 79412
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.40 AM.jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.40 AM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.40%20AM.jpeg",
+      "size": 83950
+    },
+    {
+      "name": "WhatsApp Image 2026-11-04 at 11.03.41 AM.jpeg",
+      "path": "WhatsApp Image 2026-11-04 at 11.03.41 AM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-11-04%20at%2011.03.41%20AM.jpeg",
+      "size": 68239
+    },
+    {
+      "name": "Winter.jpeg",
+      "path": "Winter.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Winter.jpeg",
+      "size": 185744
+    }
+  ]
+}
