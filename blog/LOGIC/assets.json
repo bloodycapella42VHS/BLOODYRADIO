@@ -1,232 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T01:19:46.713Z",
+  "generated_at": "2026-11-04T01:25:42Z",
   "repository": "bloodycapella42VHS/BLOODYRADIO",
   "branch": "main",
-  "base_path": "blog/logic",
+  "base_path": "blog/LOGIC",
   "assets": [
-    {
-      "name": "._¡JUEGO FRUTIGER AERO!.jpeg",
-      "path": "__MACOSX/._¡JUEGO FRUTIGER AERO!.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._%C2%A1JUEGO%20FRUTIGER%20AERO!.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._@Sabotan_chan insta Frutiger Aero widget.jpeg",
-      "path": "__MACOSX/._@Sabotan_chan insta Frutiger Aero widget.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._%40Sabotan_chan%20insta%20Frutiger%20Aero%20widget.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._◇♡♡Cute frutiger aero♡♡◇.jpeg",
-      "path": "__MACOSX/._◇♡♡Cute frutiger aero♡♡◇.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._%E2%97%87%E2%99%A1%E2%99%A1Cute%20frutiger%20aero%E2%99%A1%E2%99%A1%E2%97%87.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._1096063628094604562.jpeg",
-      "path": "__MACOSX/._1096063628094604562.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._1096063628094604562.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._835910380882256945.jpeg",
-      "path": "__MACOSX/._835910380882256945.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._835910380882256945.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._848717492329259669.jpeg",
-      "path": "__MACOSX/._848717492329259669.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._848717492329259669.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._942659765761056246.jpeg",
-      "path": "__MACOSX/._942659765761056246.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._942659765761056246.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._BloodyCapella_Navigation_Emblem_NoHero.xml",
-      "path": "__MACOSX/._BloodyCapella_Navigation_Emblem_NoHero.xml",
-      "category": "__macosx",
-      "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._BloodyCapella_Navigation_Emblem_NoHero.xml",
-      "size": 321
-    },
-    {
-      "name": "._BloodyCapella_RightSidebar_AccordionGadgets.xml",
-      "path": "__MACOSX/._BloodyCapella_RightSidebar_AccordionGadgets.xml",
-      "category": "__macosx",
-      "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._BloodyCapella_RightSidebar_AccordionGadgets.xml",
-      "size": 321
-    },
-    {
-      "name": "._BloodyCapella_RightSidebar_NoHamburgerHeader.xml",
-      "path": "__MACOSX/._BloodyCapella_RightSidebar_NoHamburgerHeader.xml",
-      "category": "__macosx",
-      "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._BloodyCapella_RightSidebar_NoHamburgerHeader.xml",
-      "size": 321
-    },
-    {
-      "name": "._BloodyCapella_TopNavigation_Labels_Featured.xml",
-      "path": "__MACOSX/._BloodyCapella_TopNavigation_Labels_Featured.xml",
-      "category": "__macosx",
-      "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._BloodyCapella_TopNavigation_Labels_Featured.xml",
-      "size": 321
-    },
-    {
-      "name": "._CD_𓂃ෆ˚.jpeg",
-      "path": "__MACOSX/._CD_𓂃ෆ˚.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._CD_%F0%93%82%83%E0%B7%86%CB%9A.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._frutiger aero fish icon.jpeg",
-      "path": "__MACOSX/._frutiger aero fish icon.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._frutiger%20aero%20fish%20icon.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._frutiger aero pfp _D.jpeg",
-      "path": "__MACOSX/._frutiger aero pfp _D.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._frutiger%20aero%20pfp%20_D.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._frutiger aero png.jpeg",
-      "path": "__MACOSX/._frutiger aero png.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._frutiger%20aero%20png.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._Frutiger Aero Sonic PFP.jpeg",
-      "path": "__MACOSX/._Frutiger Aero Sonic PFP.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._Frutiger%20Aero%20Sonic%20PFP.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._frutiger aero_.jpeg",
-      "path": "__MACOSX/._frutiger aero_.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._frutiger%20aero_.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._frutiger pomni.jpeg",
-      "path": "__MACOSX/._frutiger pomni.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._frutiger%20pomni.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._Hatsune Miku Poster _ Frutiger Aero _ Project Diva.jpeg",
-      "path": "__MACOSX/._Hatsune Miku Poster _ Frutiger Aero _ Project Diva.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._Hatsune%20Miku%20Poster%20_%20Frutiger%20Aero%20_%20Project%20Diva.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._Icon Frituger Aero.jpeg",
-      "path": "__MACOSX/._Icon Frituger Aero.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._Icon%20Frituger%20Aero.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._miku pfp!!🐠_∘_˚_˳_°🐟｡_☆ (made by me).jpeg",
-      "path": "__MACOSX/._miku pfp!!🐠_∘_˚_˳_°🐟｡_☆ (made by me).jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._miku%20pfp!!%F0%9F%90%A0_%E2%88%98_%CB%9A_%CB%B3_%C2%B0%F0%9F%90%9F%EF%BD%A1_%E2%98%86%20(made%20by%20me).jpeg",
-      "size": 331
-    },
-    {
-      "name": "._miku yee.jpeg",
-      "path": "__MACOSX/._miku yee.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._miku%20yee.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._Texto_pegado_limpio_v2.txt",
-      "path": "__MACOSX/._Texto_pegado_limpio_v2.txt",
-      "category": "__macosx",
-      "extension": "txt",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._Texto_pegado_limpio_v2.txt",
-      "size": 321
-    },
-    {
-      "name": "._Texto_pegado_limpio.txt",
-      "path": "__MACOSX/._Texto_pegado_limpio.txt",
-      "category": "__macosx",
-      "extension": "txt",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._Texto_pegado_limpio.txt",
-      "size": 321
-    },
-    {
-      "name": "._theme-9044157918920439080.xml",
-      "path": "__MACOSX/._theme-9044157918920439080.xml",
-      "category": "__macosx",
-      "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._theme-9044157918920439080.xml",
-      "size": 329
-    },
-    {
-      "name": "._Widget 3.jpeg",
-      "path": "__MACOSX/._Widget 3.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._Widget%203.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._Yunjin lesserafim frutiger aero poster.jpeg",
-      "path": "__MACOSX/._Yunjin lesserafim frutiger aero poster.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/__MACOSX/._Yunjin%20lesserafim%20frutiger%20aero%20poster.jpeg",
-      "size": 331
-    },
     {
       "name": "¡JUEGO FRUTIGER AERO!.jpeg",
       "path": "¡JUEGO FRUTIGER AERO!.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/%C2%A1JUEGO%20FRUTIGER%20AERO!.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/%C2%A1JUEGO%20FRUTIGER%20AERO!.jpeg",
       "size": 55138
     },
     {
@@ -234,7 +18,7 @@
       "path": "@Sabotan_chan insta Frutiger Aero widget.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/%40Sabotan_chan%20insta%20Frutiger%20Aero%20widget.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/%40Sabotan_chan%20insta%20Frutiger%20Aero%20widget.jpeg",
       "size": 67124
     },
     {
@@ -242,7 +26,7 @@
       "path": "◇♡♡Cute frutiger aero♡♡◇.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/%E2%97%87%E2%99%A1%E2%99%A1Cute%20frutiger%20aero%E2%99%A1%E2%99%A1%E2%97%87.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/%E2%97%87%E2%99%A1%E2%99%A1Cute%20frutiger%20aero%E2%99%A1%E2%99%A1%E2%97%87.jpeg",
       "size": 63674
     },
     {
@@ -250,7 +34,7 @@
       "path": "1096063628094604562.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/1096063628094604562.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/1096063628094604562.jpeg",
       "size": 92756
     },
     {
@@ -258,7 +42,7 @@
       "path": "835910380882256945.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/835910380882256945.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/835910380882256945.jpeg",
       "size": 52886
     },
     {
@@ -266,7 +50,7 @@
       "path": "848717492329259669.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/848717492329259669.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/848717492329259669.jpeg",
       "size": 74158
     },
     {
@@ -274,7 +58,7 @@
       "path": "942659765761056246.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/942659765761056246.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/942659765761056246.jpeg",
       "size": 108092
     },
     {
@@ -282,7 +66,7 @@
       "path": "BloodyCapella_Navigation_Emblem_NoHero.xml",
       "category": "misc",
       "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/BloodyCapella_Navigation_Emblem_NoHero.xml",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/BloodyCapella_Navigation_Emblem_NoHero.xml",
       "size": 264503
     },
     {
@@ -290,7 +74,7 @@
       "path": "BloodyCapella_RightSidebar_AccordionGadgets.xml",
       "category": "misc",
       "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/BloodyCapella_RightSidebar_AccordionGadgets.xml",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/BloodyCapella_RightSidebar_AccordionGadgets.xml",
       "size": 252637
     },
     {
@@ -298,7 +82,7 @@
       "path": "BloodyCapella_RightSidebar_NoHamburgerHeader.xml",
       "category": "misc",
       "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/BloodyCapella_RightSidebar_NoHamburgerHeader.xml",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/BloodyCapella_RightSidebar_NoHamburgerHeader.xml",
       "size": 249258
     },
     {
@@ -306,7 +90,7 @@
       "path": "BloodyCapella_TopNavigation_Labels_Featured.xml",
       "category": "misc",
       "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/BloodyCapella_TopNavigation_Labels_Featured.xml",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/BloodyCapella_TopNavigation_Labels_Featured.xml",
       "size": 264274
     },
     {
@@ -314,7 +98,7 @@
       "path": "CD_𓂃ෆ˚.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/CD_%F0%93%82%83%E0%B7%86%CB%9A.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/CD_%F0%93%82%83%E0%B7%86%CB%9A.jpeg",
       "size": 38058
     },
     {
@@ -322,7 +106,7 @@
       "path": "frutiger aero fish icon.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/frutiger%20aero%20fish%20icon.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/frutiger%20aero%20fish%20icon.jpeg",
       "size": 72565
     },
     {
@@ -330,7 +114,7 @@
       "path": "frutiger aero pfp _D.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/frutiger%20aero%20pfp%20_D.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/frutiger%20aero%20pfp%20_D.jpeg",
       "size": 105365
     },
     {
@@ -338,7 +122,7 @@
       "path": "frutiger aero png.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/frutiger%20aero%20png.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/frutiger%20aero%20png.jpeg",
       "size": 28692
     },
     {
@@ -346,7 +130,7 @@
       "path": "Frutiger Aero Sonic PFP.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/Frutiger%20Aero%20Sonic%20PFP.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/Frutiger%20Aero%20Sonic%20PFP.jpeg",
       "size": 146828
     },
     {
@@ -354,7 +138,7 @@
       "path": "frutiger aero_.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/frutiger%20aero_.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/frutiger%20aero_.jpeg",
       "size": 73532
     },
     {
@@ -362,7 +146,7 @@
       "path": "frutiger pomni.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/frutiger%20pomni.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/frutiger%20pomni.jpeg",
       "size": 119805
     },
     {
@@ -370,7 +154,7 @@
       "path": "Hatsune Miku Poster _ Frutiger Aero _ Project Diva.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/Hatsune%20Miku%20Poster%20_%20Frutiger%20Aero%20_%20Project%20Diva.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/Hatsune%20Miku%20Poster%20_%20Frutiger%20Aero%20_%20Project%20Diva.jpeg",
       "size": 187590
     },
     {
@@ -378,7 +162,7 @@
       "path": "Icon Frituger Aero.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/Icon%20Frituger%20Aero.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/Icon%20Frituger%20Aero.jpeg",
       "size": 68821
     },
     {
@@ -386,7 +170,7 @@
       "path": "miku pfp!!🐠_∘_˚_˳_°🐟｡_☆ (made by me).jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/miku%20pfp!!%F0%9F%90%A0_%E2%88%98_%CB%9A_%CB%B3_%C2%B0%F0%9F%90%9F%EF%BD%A1_%E2%98%86%20(made%20by%20me).jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/miku%20pfp!!%F0%9F%90%A0_%E2%88%98_%CB%9A_%CB%B3_%C2%B0%F0%9F%90%9F%EF%BD%A1_%E2%98%86%20(made%20by%20me).jpeg",
       "size": 148650
     },
     {
@@ -394,7 +178,7 @@
       "path": "miku yee.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/miku%20yee.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/miku%20yee.jpeg",
       "size": 67380
     },
     {
@@ -402,7 +186,7 @@
       "path": "Texto_pegado_limpio_v2.txt",
       "category": "misc",
       "extension": "txt",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/Texto_pegado_limpio_v2.txt",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/Texto_pegado_limpio_v2.txt",
       "size": 16708
     },
     {
@@ -410,7 +194,7 @@
       "path": "Texto_pegado_limpio.txt",
       "category": "misc",
       "extension": "txt",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/Texto_pegado_limpio.txt",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/Texto_pegado_limpio.txt",
       "size": 16706
     },
     {
@@ -418,7 +202,7 @@
       "path": "theme-9044157918920439080.xml",
       "category": "misc",
       "extension": "xml",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/theme-9044157918920439080.xml",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/theme-9044157918920439080.xml",
       "size": 252637
     },
     {
@@ -426,7 +210,7 @@
       "path": "Widget 3.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/Widget%203.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/Widget%203.jpeg",
       "size": 74211
     },
     {
@@ -434,7 +218,7 @@
       "path": "Yunjin lesserafim frutiger aero poster.jpeg",
       "category": "images",
       "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/logic/Yunjin%20lesserafim%20frutiger%20aero%20poster.jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/LOGIC/Yunjin%20lesserafim%20frutiger%20aero%20poster.jpeg",
       "size": 138405
     }
   ]
