@@ -1,361 +1,49 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T03:09:21.635Z",
+  "generated_at": "2026-11-05T21:43:38.875Z",
   "repository": "bloodycapella42VHS/BLOODYRADIO",
   "branch": "main",
   "base_path": "blog",
   "assets": [
     {
-      "name": "._1116611302504134804.jpeg",
-      "path": "__MACOSX/._1116611302504134804.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._1116611302504134804.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._185280972146640387.jpeg",
-      "path": "__MACOSX/._185280972146640387.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._185280972146640387.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._2000s Emo Aesthetic Stickers – Add Retro Charm to Your Designs Today (1).jpeg",
-      "path": "__MACOSX/._2000s Emo Aesthetic Stickers – Add Retro Charm to Your Designs Today (1).jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._2000s%20Emo%20Aesthetic%20Stickers%20%E2%80%93%20Add%20Retro%20Charm%20to%20Your%20Designs%20Today%20(1).jpeg",
-      "size": 331
-    },
-    {
-      "name": "._2000s Emo Aesthetic Stickers_ Add Gothic Charm to Your Designs Now.jpeg",
-      "path": "__MACOSX/._2000s Emo Aesthetic Stickers_ Add Gothic Charm to Your Designs Now.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._2000s%20Emo%20Aesthetic%20Stickers_%20Add%20Gothic%20Charm%20to%20Your%20Designs%20Now.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._307089268325608004.jpeg",
-      "path": "__MACOSX/._307089268325608004.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._307089268325608004.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._391813236327533548.jpeg",
-      "path": "__MACOSX/._391813236327533548.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._391813236327533548.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._621144973619645274.jpeg",
-      "path": "__MACOSX/._621144973619645274.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._621144973619645274.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._687784174381752252.gif",
-      "path": "__MACOSX/._687784174381752252.gif",
-      "category": "__macosx",
-      "extension": "gif",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._687784174381752252.gif",
-      "size": 331
-    },
-    {
-      "name": "._698902435970926118.jpeg",
-      "path": "__MACOSX/._698902435970926118.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._698902435970926118.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._868139265678374532.jpeg",
-      "path": "__MACOSX/._868139265678374532.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._868139265678374532.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._935130310141090606.jpeg",
-      "path": "__MACOSX/._935130310141090606.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._935130310141090606.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._Anime girl with red hair.jpeg",
-      "path": "__MACOSX/._Anime girl with red hair.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._Anime%20girl%20with%20red%20hair.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._Emoticons Button Pins.jpeg",
-      "path": "__MACOSX/._Emoticons Button Pins.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._Emoticons%20Button%20Pins.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._GIR from Invader Zim_.jpeg",
-      "path": "__MACOSX/._GIR from Invader Zim_.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._GIR%20from%20Invader%20Zim_.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._nine-tailed immortal fox.jpeg",
-      "path": "__MACOSX/._nine-tailed immortal fox.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._nine-tailed%20immortal%20fox.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._Pin by Hong Thi on Custom 2 _ 2000s wallpaper, Cool paintings, Cute wallpapers.jpeg",
-      "path": "__MACOSX/._Pin by Hong Thi on Custom 2 _ 2000s wallpaper, Cool paintings, Cute wallpapers.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._Pin%20by%20Hong%20Thi%20on%20Custom%202%20_%202000s%20wallpaper%2C%20Cool%20paintings%2C%20Cute%20wallpapers.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._pink zebra stickers _ girl$ wanna have fun.jpeg",
-      "path": "__MACOSX/._pink zebra stickers _ girl$ wanna have fun.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._pink%20zebra%20stickers%20_%20girl%24%20wanna%20have%20fun.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._sticker halloween png _ pixel art.jpeg",
-      "path": "__MACOSX/._sticker halloween png _ pixel art.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._sticker%20halloween%20png%20_%20pixel%20art.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._WARNING RADIATION, radiation , science , scenecore….gif",
-      "path": "__MACOSX/._WARNING RADIATION, radiation , science , scenecore….gif",
-      "category": "__macosx",
-      "extension": "gif",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._WARNING%20RADIATION%2C%20radiation%20%2C%20science%20%2C%20scenecore%E2%80%A6.gif",
-      "size": 331
-    },
-    {
-      "name": "._Y2K Stickers Cross - Edgy Electric Aesthetic for Your Gear.jpeg",
-      "path": "__MACOSX/._Y2K Stickers Cross - Edgy Electric Aesthetic for Your Gear.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._Y2K%20Stickers%20Cross%20-%20Edgy%20Electric%20Aesthetic%20for%20Your%20Gear.jpeg",
-      "size": 331
-    },
-    {
-      "name": "._Y2K Stickers PNG Transparent - Add Retro Vibe to Your Designs.gif",
-      "path": "__MACOSX/._Y2K Stickers PNG Transparent - Add Retro Vibe to Your Designs.gif",
-      "category": "__macosx",
-      "extension": "gif",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._Y2K%20Stickers%20PNG%20Transparent%20-%20Add%20Retro%20Vibe%20to%20Your%20Designs.gif",
-      "size": 331
-    },
-    {
-      "name": "._zombiekitty.jpeg",
-      "path": "__MACOSX/._zombiekitty.jpeg",
-      "category": "__macosx",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/__MACOSX/._zombiekitty.jpeg",
-      "size": 331
-    },
-    {
-      "name": "1116611302504134804.jpeg",
-      "path": "1116611302504134804.jpeg",
+      "name": "dibujo_01.png",
+      "path": "dibujo_01.png",
       "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/1116611302504134804.jpeg",
-      "size": 50743
+      "extension": "png",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/dibujo_01.png",
+      "size": 569271
     },
     {
-      "name": "185280972146640387.jpeg",
-      "path": "185280972146640387.jpeg",
+      "name": "dibujo_02.png",
+      "path": "dibujo_02.png",
       "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/185280972146640387.jpeg",
-      "size": 15028
+      "extension": "png",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/dibujo_02.png",
+      "size": 366243
     },
     {
-      "name": "2000s Emo Aesthetic Stickers – Add Retro Charm to Your Designs Today (1).jpeg",
-      "path": "2000s Emo Aesthetic Stickers – Add Retro Charm to Your Designs Today (1).jpeg",
+      "name": "dibujo_03.png",
+      "path": "dibujo_03.png",
       "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/2000s%20Emo%20Aesthetic%20Stickers%20%E2%80%93%20Add%20Retro%20Charm%20to%20Your%20Designs%20Today%20(1).jpeg",
-      "size": 28877
+      "extension": "png",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/dibujo_03.png",
+      "size": 615609
     },
     {
-      "name": "2000s Emo Aesthetic Stickers_ Add Gothic Charm to Your Designs Now.jpeg",
-      "path": "2000s Emo Aesthetic Stickers_ Add Gothic Charm to Your Designs Now.jpeg",
+      "name": "dibujo_04.png",
+      "path": "dibujo_04.png",
       "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/2000s%20Emo%20Aesthetic%20Stickers_%20Add%20Gothic%20Charm%20to%20Your%20Designs%20Now.jpeg",
-      "size": 16899
+      "extension": "png",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/dibujo_04.png",
+      "size": 567678
     },
     {
-      "name": "307089268325608004.jpeg",
-      "path": "307089268325608004.jpeg",
+      "name": "dibujo_05.png",
+      "path": "dibujo_05.png",
       "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/307089268325608004.jpeg",
-      "size": 99184
-    },
-    {
-      "name": "391813236327533548.jpeg",
-      "path": "391813236327533548.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/391813236327533548.jpeg",
-      "size": 14483
-    },
-    {
-      "name": "621144973619645274.jpeg",
-      "path": "621144973619645274.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/621144973619645274.jpeg",
-      "size": 64089
-    },
-    {
-      "name": "687784174381752252.gif",
-      "path": "687784174381752252.gif",
-      "category": "images",
-      "extension": "gif",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/687784174381752252.gif",
-      "size": 63710
-    },
-    {
-      "name": "698902435970926118.jpeg",
-      "path": "698902435970926118.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/698902435970926118.jpeg",
-      "size": 117073
-    },
-    {
-      "name": "868139265678374532.jpeg",
-      "path": "868139265678374532.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/868139265678374532.jpeg",
-      "size": 132292
-    },
-    {
-      "name": "935130310141090606.jpeg",
-      "path": "935130310141090606.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/935130310141090606.jpeg",
-      "size": 35700
-    },
-    {
-      "name": "Anime girl with red hair.jpeg",
-      "path": "Anime girl with red hair.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Anime%20girl%20with%20red%20hair.jpeg",
-      "size": 123022
-    },
-    {
-      "name": "Emoticons Button Pins.jpeg",
-      "path": "Emoticons Button Pins.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Emoticons%20Button%20Pins.jpeg",
-      "size": 56934
-    },
-    {
-      "name": "GIR from Invader Zim_.jpeg",
-      "path": "GIR from Invader Zim_.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/GIR%20from%20Invader%20Zim_.jpeg",
-      "size": 27505
-    },
-    {
-      "name": "nine-tailed immortal fox.jpeg",
-      "path": "nine-tailed immortal fox.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/nine-tailed%20immortal%20fox.jpeg",
-      "size": 191051
-    },
-    {
-      "name": "Pin by Hong Thi on Custom 2 _ 2000s wallpaper, Cool paintings, Cute wallpapers.jpeg",
-      "path": "Pin by Hong Thi on Custom 2 _ 2000s wallpaper, Cool paintings, Cute wallpapers.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Pin%20by%20Hong%20Thi%20on%20Custom%202%20_%202000s%20wallpaper%2C%20Cool%20paintings%2C%20Cute%20wallpapers.jpeg",
-      "size": 65617
-    },
-    {
-      "name": "pink zebra stickers _ girl$ wanna have fun.jpeg",
-      "path": "pink zebra stickers _ girl$ wanna have fun.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/pink%20zebra%20stickers%20_%20girl%24%20wanna%20have%20fun.jpeg",
-      "size": 45597
-    },
-    {
-      "name": "sticker halloween png _ pixel art.jpeg",
-      "path": "sticker halloween png _ pixel art.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/sticker%20halloween%20png%20_%20pixel%20art.jpeg",
-      "size": 7824
-    },
-    {
-      "name": "WARNING RADIATION, radiation , science , scenecore….gif",
-      "path": "WARNING RADIATION, radiation , science , scenecore….gif",
-      "category": "images",
-      "extension": "gif",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WARNING%20RADIATION%2C%20radiation%20%2C%20science%20%2C%20scenecore%E2%80%A6.gif",
-      "size": 314056
-    },
-    {
-      "name": "Y2K Stickers Cross - Edgy Electric Aesthetic for Your Gear.jpeg",
-      "path": "Y2K Stickers Cross - Edgy Electric Aesthetic for Your Gear.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Y2K%20Stickers%20Cross%20-%20Edgy%20Electric%20Aesthetic%20for%20Your%20Gear.jpeg",
-      "size": 88170
-    },
-    {
-      "name": "Y2K Stickers PNG Transparent - Add Retro Vibe to Your Designs.gif",
-      "path": "Y2K Stickers PNG Transparent - Add Retro Vibe to Your Designs.gif",
-      "category": "images",
-      "extension": "gif",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/Y2K%20Stickers%20PNG%20Transparent%20-%20Add%20Retro%20Vibe%20to%20Your%20Designs.gif",
-      "size": 119886
-    },
-    {
-      "name": "zombiekitty.jpeg",
-      "path": "zombiekitty.jpeg",
-      "category": "images",
-      "extension": "jpeg",
-      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/zombiekitty.jpeg",
-      "size": 17930
+      "extension": "png",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/dibujo_05.png",
+      "size": 523478
     }
   ]
 }
