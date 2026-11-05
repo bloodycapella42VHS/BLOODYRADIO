@@ -1,15 +1,16 @@
+
 {
   "capella": {
     "name": "CAPELLA",
     "code": "C-001",
     "title": "THE GODDESS OF VOID",
-    "description": "Eres curiosa, sensible e intensa. Te atraen los misterios, las preguntas difíciles, los números, las máquinas y aquello que parece imposible de comprender. Buscas entender el mundo y proteger lo que te importa.",
+    "description": "Eres una persona curiosa, creativa y bastante contradictoria. Tu mente parece estar constantemente buscando algo que comprender: máquinas, números, estructuras, preguntas existenciales, historias y pequeños detalles que otras personas pasarían por alto. Puedes hablar durante horas sobre aquello que despierta tu interés, pero también necesitas momentos de silencio, aislamiento y tranquilidad. Eres directa, ingeniosa y, en ocasiones, difícil de interpretar. Aunque puedes parecer reservada o distante, desarrollas vínculos muy profundos con las personas que consiguen acercarse a ti. Tienes una tendencia protectora y maternal bastante intensa, y puedes llegar a entregar demasiado de ti misma por quienes consideras importantes. Sin embargo, también convives con ansiedad, inseguridades, sensibilidad y una necesidad particular de sentirte segura. Existe una diferencia entre tu faceta social y tu mundo más íntimo: ambas forman parte de ti, aunque no siempre muestran las mismas cosas. No eres solamente una criatura extraña intentando comprender el mundo; también eres alguien que desea vivir, experimentar, crear y encontrar su propio lugar en él.",
     "traits": [
       "Curiosidad",
-      "Sensibilidad",
-      "Imaginación",
+      "Creatividad",
       "Intensidad",
-      "Devoción"
+      "Sensibilidad",
+      "Protección"
     ],
     "image": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-10-28%20at%203.36.07%20PM.jpeg"
   },
@@ -17,12 +18,12 @@
     "name": "MARINA",
     "code": "M-002",
     "title": "THE MOTHER IN QUEEN",
-    "description": "Tu fuerza nace de la resistencia, la lealtad y el deseo de proteger. Puedes asumir responsabilidades, pero también necesitas descanso y compañía. Tu presencia transmite seguridad.",
+    "description": "Has aprendido a mantenerte en pie incluso cuando las circunstancias parecen exigir más de lo que puedes ofrecer. Tu fortaleza no nace de la ausencia de sentimientos, sino de tu capacidad para continuar a pesar de ellos. Eres protectora, leal y tienes una inclinación natural a cuidar de quienes consideras parte de tu familia. Puedes asumir responsabilidades que otras personas evitarían y convertirte en un refugio para quienes necesitan seguridad. Sin embargo, detrás de esa presencia firme también existe alguien que necesita descansar, recibir cariño y sentirse acompañada. No tienes que ser la persona fuerte en todo momento ni cargar con los problemas de todo el mundo. Tu valor no depende de cuánto seas capaz de soportar.",
     "traits": [
+      "Maternidad",
       "Resistencia",
-      "Protección",
       "Lealtad",
-      "Determinación",
+      "Protección",
       "Calidez"
     ],
     "image": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-10-28%20at%203.36.07%20PM%20(1).jpeg"
@@ -31,13 +32,13 @@
     "name": "TWYLA",
     "code": "T-003",
     "title": "THE SHADOW OF BULLETS",
-    "description": "Observas antes de actuar. Valoras la independencia, la prudencia y el espacio personal. Prefieres analizar con calma y elegir cuidadosamente en quién confiar.",
+    "description": "Prefieres observar antes de participar y comprender una situación antes de tomar una decisión. No entregas tu confianza fácilmente y valoras profundamente tu independencia. Puedes parecer distante, reservada o incluso indiferente, pero eso no significa que carezcas de sentimientos. Simplemente no consideras necesario compartirlos con cualquiera. Analizas las acciones de las personas y prestas atención a detalles que pueden pasar desapercibidos. Te gusta disponer de tu propio espacio y decidir cuándo permitir que alguien se acerque. No buscas ser el centro de atención; prefieres mantener el control de tu entorno y actuar cuando consideras que realmente vale la pena.",
     "traits": [
       "Observación",
+      "Independencia",
       "Prudencia",
-      "Introspección",
       "Reserva",
-      "Independencia"
+      "Autocontrol"
     ],
     "image": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-10-28%20at%203.33.47%20PM.jpeg"
   },
@@ -45,13 +46,13 @@
     "name": "MRS. CORVUNSON",
     "code": "W-004",
     "title": "THE STRATEGIC MATRIARCH",
-    "description": "Piensas en términos de estructura, responsabilidad y consecuencias. Organizas recursos, tomas decisiones y asumes el peso de dirigir.",
+    "description": "Tu manera de entender el mundo gira alrededor de la estructura, la planificación y las consecuencias. No acostumbras dejar decisiones importantes al azar: prefieres conocer los recursos disponibles, anticipar problemas y establecer una dirección clara. Tienes facilidad para asumir el liderazgo y distribuir responsabilidades, aunque eso implique cargar con decisiones difíciles. Tu autoridad no necesita manifestarse constantemente mediante amenazas; muchas veces basta con tu presencia y la seguridad con la que actúas. Sin embargo, puedes llegar a ser exigente y poco tolerante con la improvisación. Para ti, proteger una estructura significa garantizar que siga funcionando, incluso cuando otras personas no comprenden el precio de mantenerla.",
     "traits": [
       "Liderazgo",
       "Estrategia",
       "Autoridad",
-      "Responsabilidad",
-      "Organización"
+      "Disciplina",
+      "Responsabilidad"
     ],
     "image": ""
   },
@@ -59,12 +60,12 @@
     "name": "DOMINOUS ALBA",
     "code": "A-005",
     "title": "THE FORGOTTEN SUN",
-    "description": "Te atraen los símbolos, los enigmas y las preguntas sin respuestas sencillas. Buscas significados ocultos y conservas una parte de ti que pocos conocen.",
+    "description": "Hay cosas que prefieres comprender por ti misma, especialmente aquellas que parecen esconder significados detrás de su apariencia. Te atraen los símbolos, los enigmas, las interpretaciones y las ideas que no ofrecen respuestas inmediatas. No necesariamente buscas compartir tus descubrimientos: algunas cosas tienen más valor cuando permanecen exclusivamente tuyas. Posees una fuerte individualidad y cierta ambición que te impulsa a perseguir aquello que despierta tu interés. Puedes parecer enigmática, distante o difícil de comprender, pero no necesitas ser descifrada por todo el mundo. Hay una parte de ti que prefiere permanecer olvidada antes que convertirse en algo ordinario.",
     "traits": [
-      "Misterio",
-      "Ambición",
       "Simbolismo",
+      "Misterio",
       "Individualidad",
+      "Ambición",
       "Determinación"
     ],
     "image": ""
@@ -73,11 +74,11 @@
     "name": "EMBRY ODESSA",
     "code": "E-312",
     "title": "THE EXECUTOR OF VOID",
-    "description": "Tu presencia puede ser imponente, pero valoras la unión y la lealtad. Prefieres construir soluciones que mantengan unido al grupo.",
+    "description": "Tu presencia puede resultar imponente, incluso cuando no tienes intención de intimidar a nadie. Valoras la lealtad y consideras que un grupo necesita algo más que personas compartiendo un mismo espacio: necesita objetivos, compromiso y confianza. Sueles asumir responsabilidades cuando percibes que las cosas comienzan a desmoronarse. Prefieres resolver los conflictos antes de permitir que terminen destruyendo aquello que has construido. Puedes ser autoritaria y exigente, pero tu interés principal está en conservar la unión y evitar que las personas importantes para ti terminen enfrentándose entre sí. No siempre sabes cómo demostrar afecto, aunque tus acciones suelen hablar por ti.",
     "traits": [
       "Autoridad",
       "Lealtad",
-      "Unión",
+      "Cohesión",
       "Imponencia",
       "Resolución"
     ],
@@ -87,13 +88,13 @@
     "name": "HONEY BADGER GENT",
     "code": "H-047",
     "title": "THE WRITER OF FEARS",
-    "description": "Conviven en ti la seriedad y una sensibilidad que no siempre muestras. Has aprendido a resistir, adaptarte y reconstruirte después de experiencias difíciles.",
+    "description": "En ti conviven dos facetas que no siempre parecen compatibles. Puedes mostrar una personalidad seria, intimidante y difícil de abordar, mientras que detrás de esa apariencia existe una sensibilidad que no acostumbras compartir. Has aprendido a adaptarte a circunstancias complicadas y a reconstruirte después de experiencias que podrían haber terminado contigo. Tu imaginación te permite transformar pensamientos, experiencias y emociones en algo propio. No necesariamente buscas que los demás comprendan lo que llevas dentro; a veces prefieres convertirlo en una historia, una creación o una representación de aquello que no consigues expresar directamente. No eres una persona sencilla de interpretar, y quizá tampoco tengas demasiado interés en serlo.",
     "traits": [
       "Dualidad",
-      "Seriedad",
       "Resiliencia",
-      "Imponencia",
-      "Creatividad"
+      "Seriedad",
+      "Creatividad",
+      "Introspección"
     ],
     "image": ""
   },
@@ -101,13 +102,13 @@
     "name": "MARY ANTA",
     "code": "M-913",
     "title": "THE SORROWFUL MIRACLE",
-    "description": "Incluso cuando las cosas no salen como esperabas, conservas una chispa de alegría. Puedes reconocer tu fragilidad sin renunciar a volver a sonreír.",
+    "description": "Tu manera de afrontar la vida conserva algo de inocencia, incluso cuando las circunstancias no han sido especialmente amables contigo. Puedes sentirte frágil, decepcionarte o experimentar momentos en los que parece que todo está saliendo mal, pero eso no significa que hayas perdido tu capacidad de disfrutar las pequeñas cosas. Tienes una forma espontánea de encontrar motivos para sonreír y continuar. No necesitas ser fuerte todo el tiempo ni fingir que nada te afecta. Tu esperanza no consiste en creer que nunca sucederá algo malo, sino en conservar la posibilidad de volver a encontrar alegría después de haber sufrido. Quizá tu mayor milagro sea seguir siendo capaz de sonreír.",
     "traits": [
-      "Optimismo",
-      "Resiliencia",
-      "Fragilidad",
       "Esperanza",
-      "Espontaneidad"
+      "Espontaneidad",
+      "Optimismo",
+      "Fragilidad",
+      "Resiliencia"
     ],
     "image": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-10-28%20at%203.36.07%20PM%20(2).jpeg"
   },
@@ -115,12 +116,13 @@
     "name": "CROWVEN CORVUNSON",
     "code": "C-006",
     "title": "THE CHAOTIC PORCUPINE",
-    "description": "No buscas un orden definido ni una destrucción absoluta. Prefieres divertirte en tu propio mundo, aunque la mayoría de las personas te resulten desagradables. Sin embargo, cuando alguien consigue ganarse tu afecto, puedes volverte torpe hasta para hablar. Quizá no sepas expresar lo que sientes, pero defenderás a quienes quieres con colmillos y púas.",
+    "description": "No tienes demasiado interés en encajar dentro de las expectativas de otras personas. Prefieres vivir a tu manera, divertirte y mantenerte alejada de aquello que consideras desagradable o innecesario. Tu personalidad puede resultar hostil, sarcástica y bastante antipática, especialmente cuando alguien intenta acercarse sin tu consentimiento. No buscas necesariamente destruirlo todo, pero tampoco tienes intención de mantener un orden que no te interesa. Sin embargo, existe una contradicción bastante evidente en tu comportamiento: cuando alguien consigue ganarse tu afecto, puedes volverte torpe, tímida e incapaz de expresar lo que realmente sientes. Quizá no sepas demostrar cariño sin recurrir a comentarios desagradables o actitudes defensivas, pero cuando alguien se convierte en una persona importante para ti, estás dispuesta a defenderlo con todos tus colmillos y púas.",
     "traits": [
-      "Caótico",
+      "Caos",
       "Tsundere",
+      "Hostilidad",
       "Punk",
-      "Antipático"
+      "Devoción"
     ],
     "image": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-10-28%20at%203.36.07%20PM%20(4).jpeg"
   },
@@ -128,12 +130,13 @@
     "name": "STELMAN",
     "code": "S-007",
     "title": "THE SELF-SERVING GAMBLER",
-    "description": "Tu personalidad puede resultar difícil de soportar. Buscas el caos y priorizas tu propio beneficio. Rara vez te interesas por los demás si no representan una oportunidad o una herramienta para alcanzar tus objetivos. Ni siquiera los vínculos familiares parecen cambiar fácilmente tu perspectiva. Aun así, quizá todavía seas capaz de cambiar.",
+    "description": "No eres una persona especialmente interesada en el bienestar de los demás. Tu principal prioridad es obtener aquello que deseas, independientemente de quién termine pagando las consecuencias. Eres egoísta, manipulador y oportunista; sabes reconocer las debilidades ajenas y no tienes demasiados reparos en utilizarlas cuando representan una ventaja. Para ti, las relaciones pueden convertirse en transacciones, las promesas en herramientas y la confianza en una oportunidad que alguien ha tenido la ingenuidad de ofrecerte. Incluso los vínculos familiares pueden quedar subordinados a tus propios intereses. No necesitas justificar tus acciones mediante una supuesta intención noble: sabes perfectamente que muchas de ellas perjudican a otras personas y, aun así, puedes elegir realizarlas. Tu inventiva te permite encontrar salidas donde otros solamente ven problemas, pero rara vez utilizas esa capacidad por algo que no te beneficie. No eres un incomprendido esperando que alguien descubra tu bondad. Eres alguien capaz de hacer daño por conveniencia.",
     "traits": [
-      "Narcisista",
-      "Egoísta",
-      "Inventiva",
-      "Apostador"
+      "Malicia",
+      "Egoísmo",
+      "Manipulación",
+      "Oportunismo",
+      "Inventiva"
     ],
     "image": ""
   },
@@ -141,14 +144,56 @@
     "name": "SAVANNAH LIONKING",
     "code": "L-008",
     "title": "THE GUARDED LIONHEART",
-    "description": "Eres desconfiada, pero fuerte. Has conocido personas que te dejaron dudas y heridas, aunque eso no ha conseguido destruir tus principios. No eliges únicamente con el corazón: observas las acciones, valoras la honestidad y buscas afecto verdadero. Cuando encuentras a tu familia, sabes elegirla y protegerla. Pero recuerda que también necesitas descansar y cuidar de ti.",
+    "description": "Has aprendido a desconfiar, no necesariamente porque quieras mantener a todo el mundo alejado, sino porque conoces las consecuencias de entregar tu confianza a las personas equivocadas. Tienes principios que no estás dispuesta a abandonar simplemente para agradar a alguien. Observas las acciones antes de aceptar las palabras y valoras especialmente la honestidad, la lealtad y la coherencia. Aunque puedes parecer difícil de acercar, no has renunciado a la posibilidad de encontrar afecto verdadero. Cuando decides que alguien forma parte de tu familia, tu compromiso puede ser extraordinariamente fuerte. Estás dispuesta a proteger a quienes amas, incluso cuando eso implique enfrentarte a circunstancias difíciles. Sin embargo, recuerda que no tienes que vivir permanentemente a la defensiva: también mereces encontrar un lugar donde puedas bajar la guardia.",
     "traits": [
       "Desconfianza",
       "Fortaleza",
-      "Lealtad",
       "Honestidad",
+      "Lealtad",
       "Protección"
     ],
     "image": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/WhatsApp%20Image%202026-10-28%20at%203.36.07%20PM%20(3).jpeg"
+  },
+  "vasillis": {
+    "name": "VASILLIS DEERLIGTHON",
+    "code": "V-734",
+    "title": "THE EYES OF THE STRINGS",
+    "description": "Has vivido lo suficiente como para comprender que la existencia no siempre ofrece garantías. Tu historia contiene experiencias que quizá habrían cambiado por completo a cualquier otra persona, incluyendo momentos en los que estuviste demasiado cerca de perder la vida. Sin embargo, fue precisamente esa cercanía con la muerte lo que terminó modificando tu manera de disfrutarla. No buscas vivir bajo las expectativas de los demás ni necesitas que alguien determine quién deberías ser. Las etiquetas sociales, las convenciones y las clasificaciones de género no tienen demasiado significado para ti: existes a tu manera y no consideras necesario justificarlo. Te gusta experimentar, explorar y acercarte a situaciones desconocidas, aunque mantienes límites personales bastante definidos. Has aprendido que la libertad no consiste en carecer de límites, sino en poder decidir cuáles son los tuyos. Quizá hayas visto demasiadas cosas como para temerle a lo desconocido, pero todavía conservas curiosidad por descubrir qué más puede ofrecerte la vida.",
+    "traits": [
+      "Libertad",
+      "Androginia",
+      "Experiencia",
+      "Desapego",
+      "Vitalidad"
+    ],
+    "image": ""
+  },
+  "betty": {
+    "name": "BETTY",
+    "code": "B-000",
+    "title": "THE MOTHER OF THE DEVIL ITSELF",
+    "description": "Hubo un tiempo en el que estabas convencida de que tus acciones tenían una justificación. Creías estar haciendo lo correcto, defendiendo un supuesto bien mayor y tomando decisiones que, según tú, terminarían beneficiando a quienes necesitaban protección. Pero terminaste convirtiéndote en la responsable de aquello que juraste evitar. La persona que prometiste proteger sufrió las consecuencias de tus propias decisiones y ahora debes convivir con ese recuerdo. No puedes cambiar lo ocurrido ni recuperar aquello que destruiste. Sin embargo, algo terminó transformando tu manera de entender el amor: la maternidad. Encontraste en ella una razón para volver a sentir, cuidar y llenar un vacío que parecía imposible de reparar. Eso no borra tus errores ni convierte automáticamente tu pasado en algo justificable. Simplemente significa que, después de todo lo que hiciste, todavía encontraste algo que deseas proteger con sinceridad.",
+    "traits": [
+      "Arrepentimiento",
+      "Maternidad",
+      "Culpa",
+      "Redención",
+      "Protección"
+    ],
+    "image": ""
+  },
+  "kamatsu": {
+    "name": "KAMATSU OKOMOTSUMORI",
+    "code": "K-008",
+    "title": "THE LAST REMNANT OF WAR",
+    "description": "Alguna vez fuiste alguien que parecía haber nacido para la guerra. Encontraste en ella una forma de existir, una manera de liberar tus propias cadenas y convertir el caos en algo tan natural como respirar. Pero entonces apareció aquella persona. A su lado, incluso aquello que parecía inevitable podía detenerse. Ella consiguió transformar tu mundo y mostrarte una vida que no necesitaba estar construida alrededor de la violencia. Cuando la perdiste, no solamente desapareció alguien a quien amabas: también desapareció la razón por la que habías comenzado a imaginar un futuro diferente. Desde entonces, la guerra se convirtió en una constante extrañamente familiar, una presencia que incluso parece menos difícil de soportar que la tranquilidad. Eres un monumento viviente a tus propios pecados, alguien que consiguió encontrar cierta paz, aunque nunca aprendió a confiar plenamente en ella. Ahora existe un último vínculo que te mantiene aferrada a esa vida: el fruto de aquel amor. Y aunque deseas protegerlo por encima de cualquier cosa, sabes que tu tranquilidad depende de algo que temes volver a perder.",
+    "traits": [
+      "Duelo",
+      "Devoción",
+      "Culpa",
+      "Resignación",
+      "Instinto protector"
+    ],
+    "image": ""
   }
 }
