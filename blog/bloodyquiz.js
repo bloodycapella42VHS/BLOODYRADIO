@@ -1,4 +1,7 @@
-/* BLOODYCAPELLA QUIZ ENGINE v2.0
+/* BLOODYCAPELLA QUIZ ENGINE v2.2
+   - Selección aleatoria de retratos desde image o images[].
+   - Botón para cambiar el retrato sin repetir inmediatamente.
+   - Compatible con el JSON anterior y el nuevo formato.
    - Compatible con questions.txt de puntuación ponderada.
    - Selección de 30 preguntas sin repetición dentro de la partida.
    - Historial local para reducir repeticiones entre partidas completadas.
@@ -8,8 +11,8 @@
   "use strict";
 
   const root = document.getElementById("bc-quiz");
-  if (!root || root.dataset.bcInitialized === "weighted-v2") return;
-  root.dataset.bcInitialized = "weighted-v2";
+  if (!root || root.dataset.bcInitialized === "weighted-v2.2") return;
+  root.dataset.bcInitialized = "weighted-v2.2";
 
   const $ = id => document.getElementById(id);
 
@@ -35,6 +38,7 @@
     tag: $("bc-result-tag"),
     description: $("bc-result-description"),
     image: $("bc-result-image"),
+    imageChange: $("bc-change-image"),
     traits: $("bc-traits"),
     second: $("bc-second"),
     bars: $("bc-bars")
@@ -50,6 +54,86 @@
     portrait.hidden = true;
     el.name.parentNode.insertBefore(portrait, el.name);
     el.image = portrait;
+  }
+
+  // Botón opcional para cambiar el retrato desde la pantalla de resultados.
+  if (!el.imageChange && el.image) {
+    const changeButton = document.createElement("button");
+    changeButton.id = "bc-change-image";
+    changeButton.type = "button";
+    changeButton.className = "bc-secondary bc-change-image";
+    changeButton.textContent = "CHANGE PORTRAIT ↻";
+    changeButton.hidden = true;
+    el.image.insertAdjacentElement("afterend", changeButton);
+    el.imageChange = changeButton;
+  }
+
+  function getCharacterImages(character) {
+    const candidates = [];
+
+    if (character && Array.isArray(character.images)) {
+      character.images.forEach(url => {
+        if (typeof url === "string" && url.trim()) candidates.push(url.trim());
+      });
+    }
+
+    // Compatibilidad con el formato anterior: "image": "URL".
+    if (character && typeof character.image === "string" && character.image.trim()) {
+      candidates.push(character.image.trim());
+    }
+
+    // Elimina duplicados conservando el orden.
+    return [...new Set(candidates)];
+  }
+
+  function showRandomPortrait(avoidCurrent = true) {
+    if (!el.image || currentPortraitImages.length === 0) {
+      if (el.image) {
+        el.image.hidden = true;
+        el.image.removeAttribute("src");
+      }
+      hide(el.imageChange);
+      return;
+    }
+
+    let candidates = currentPortraitImages.slice();
+
+    if (avoidCurrent && candidates.length > 1) {
+      candidates = candidates.filter(url => url !== currentPortraitURL);
+    }
+
+    const imageURL = candidates[Math.floor(Math.random() * candidates.length)];
+
+    try {
+      const parsedURL = new URL(imageURL, window.location.href);
+      if (parsedURL.protocol !== "https:" && parsedURL.protocol !== "http:") {
+        throw new Error("Protocolo de imagen no permitido.");
+      }
+
+      currentPortraitURL = imageURL;
+      el.image.onerror = () => {
+        el.image.hidden = true;
+        el.image.removeAttribute("src");
+        hide(el.imageChange);
+        console.warn("[BloodyCapella] No se pudo cargar el retrato:", imageURL);
+      };
+      el.image.onload = () => {
+        el.image.hidden = false;
+        if (currentPortraitImages.length > 1) show(el.imageChange);
+      };
+      el.image.alt = "Retrato de " + (winner && characters[winner] ? (characters[winner].name || winner) : "personaje");
+      el.image.loading = "eager";
+      el.image.decoding = "async";
+      el.image.src = parsedURL.href;
+      el.image.hidden = false;
+      if (currentPortraitImages.length > 1) show(el.imageChange);
+      else hide(el.imageChange);
+    } catch (error) {
+      el.image.hidden = true;
+      el.image.removeAttribute("src");
+      hide(el.imageChange);
+      console.warn("[BloodyCapella] URL de retrato inválida:", imageURL, error);
+    }
   }
 
   // Estilos base del retrato: se muestran directamente en la pantalla de resultados.
@@ -88,6 +172,8 @@
   let index = 0;
   let winner = null;
   let lastRanking = [];
+  let currentPortraitImages = [];
+  let currentPortraitURL = "";
 
   const HISTORY_KEY = "bloodycapella_quiz_completed_questions_v2";
 
@@ -414,45 +500,18 @@
 
     const main = characters[winner];
 
-    // Retrato del personaje: la URL se obtiene de characters.json -> image.
-    // El elemento es opcional para mantener compatibilidad con entradas antiguas.
-    if (el.image) {
-      const imageURL = typeof main.image === "string" ? main.image.trim() : "";
-
-      if (imageURL) {
-        try {
-          const parsedURL = new URL(imageURL, window.location.href);
-          if (parsedURL.protocol === "https:" || parsedURL.protocol === "http:") {
-            el.image.onerror = () => {
-              el.image.hidden = true;
-              el.image.removeAttribute("src");
-              console.warn(
-                "[BloodyCapella] No se pudo cargar el retrato. Comprueba que image contenga una URL directa de imagen:",
-                imageURL
-              );
-            };
-            el.image.onload = () => {
-              el.image.hidden = false;
-            };
-            el.image.alt = "Retrato de " + (main.name || winner);
-            el.image.loading = "eager";
-            el.image.decoding = "async";
-            el.image.src = parsedURL.href;
-            el.image.hidden = false;
-          } else {
-            el.image.hidden = true;
-            el.image.removeAttribute("src");
-          }
-        } catch (error) {
-          el.image.hidden = true;
-          el.image.removeAttribute("src");
-          console.warn("[BloodyCapella] URL de retrato inválida:", imageURL);
-        }
-      } else {
+    // Retrato aleatorio: admite images[] y conserva compatibilidad con image.
+    currentPortraitImages = getCharacterImages(main);
+    currentPortraitURL = "";
+    if (currentPortraitImages.length) {
+      showRandomPortrait(false);
+    } else {
+      if (el.image) {
         el.image.hidden = true;
         el.image.removeAttribute("src");
         el.image.alt = "";
       }
+      hide(el.imageChange);
     }
 
     const secondaryEntry = ranking.find(
@@ -597,6 +656,7 @@
     if (el.back) el.back.addEventListener("click", previousQuestion);
     if (el.restart) el.restart.addEventListener("click", restart);
     if (el.share) el.share.addEventListener("click", shareResult);
+    if (el.imageChange) el.imageChange.addEventListener("click", () => showRandomPortrait(true));
   }
 
   async function initialize() {
