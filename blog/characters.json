@@ -215,5 +215,61 @@
     "images": [
       "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/dibujo_02.png"
     ]
+  },
+  "cyanide": {
+    "name": "CYANIDE",
+    "code": "CY-009",
+    "title": "THE GUARDIAN OF SOUND",
+    "description": "Eres una persona de una inocencia muy particular. No encuentras demasiado sentido en muchos de los placeres que otras personas consideran importantes; para ti, la música ocupa un lugar mucho más profundo. Es como si, sin ella, tu vida quedara suspendida en una pausa interminable. Cuando algo despierta tu interés, tienes una facilidad extraordinaria para aprenderlo y dominarlo, hasta el punto de convertirte en alguien virtuoso en aquello que te propones. En cambio, aquello que no consigue captar tu atención puede resultarte indiferente y difícil de mantener. Sin embargo, cuando se trata del ambiente musical de quienes te rodean, aparece tu faceta más protectora: sabes acompañar, cuidar y crear un espacio en el que los demás puedan sentirse cómodos. Eres, a tu manera, un ángel guardián de la música y de las personas que la comparten contigo.",
+    "traits": [
+      "Inocencia",
+      "Musicalidad",
+      "Virtuosismo",
+      "Indiferencia selectiva",
+      "Protección"
+    ],
+    "images": []
+  },
+  "condon": {
+    "name": "CONDON",
+    "code": "CON-010",
+    "title": "THE BELOVED LITTLE MYSTERY",
+    "description": "«Felicidades, eres un niño autista». Eso fue lo primero que escuchó Condon —si ese es realmente su nombre—. Ahora tiene ocho años y vive con autismo severo. Suele distraerse con facilidad, pero también es extraordinariamente amable, cariñoso y leal. Su bondad, sin embargo, a veces lo lleva a meterse en conflictos que podrían haberse evitado. Con sus padres y sus tíos muestra una astucia muy particular: sabe perfectamente que es el consentido de la casa y no duda en aprovecharlo un poquito. Adora a sus padres, Sandra y Alex, y también a su tía Capella y a su tío R15. Aunque, si tiene que ser completamente sincero, probablemente elegiría un sándwich de queso antes que a cualquiera de ellos. Suele pasar gran parte del día con Capella y con su padre, disfrutando de su compañía y de las pequeñas rutinas que hacen que el mundo resulte más familiar. Sus poderes todavía no han sido identificados; quizá sea mejor que continúen así.",
+    "traits": [
+      "Amabilidad",
+      "Lealtad",
+      "Distracción",
+      "Astucia familiar",
+      "Inocencia"
+    ],
+    "images": []
+  },
+  "markus_anta": {
+    "name": "MARKUS ANTA",
+    "code": "MA-011",
+    "title": "THE WHITE SHEEP",
+    "description": "Eres la oveja blanca de una familia de ovejas negras. Vienes de un entorno familiar complicado y de una historia que podría haber determinado quién terminarías siendo, pero decidiste romper el molde. Tus padres y tus hermanos no te odian por haber elegido un camino diferente; al contrario, se alegran de que hayas conseguido romper el ciclo y construir una vida más tranquila. Ahora pasas buena parte del tiempo preocupado por tu presente y por todo lo que implica mantenerlo. No hablas demasiado con tu familia, aunque sabes que te quieren y que están felices de verte vivir sin repetir los errores del pasado. Por lo general eres una persona serena, paciente y difícil de alterar. Sin embargo, esa tranquilidad tiene un límite: cuando alguien amenaza a las personas que amas, los viejos instintos familiares parecen despertar y recuerdas que hay una parte de tu pasado que nunca desapareció del todo.",
+    "traits": [
+      "Tranquilidad",
+      "Superación",
+      "Autocontrol",
+      "Lealtad",
+      "Instinto protector"
+    ],
+    "images": []
+  },
+  "katherine": {
+    "name": "KATHERINE",
+    "code": "K-012",
+    "title": "THE FORGOTTEN HEROINE",
+    "description": "Eres sarcástica, realista y directa. En algún momento fuiste la heroína que todos necesitaban: asumiste responsabilidades, enfrentaste los desafíos más difíciles y subiste escalones que parecían imposibles de alcanzar. Pero cuando finalmente llegaste a la cima, descubriste que muchas de las personas por las que habías luchado ya no estaban mirando. Ahora trabajas junto a los amigos que decidieron quedarse a tu lado cuando todo terminó. Has aprendido a valorar esa compañía sin dejar que tu historia se convierta en una simple colección de victorias pasadas. Aun así, tu corazón continúa buscando algo nuevo: otro propósito, otra aventura y, sobre todo, a tu amada, incluso en medio de una guerra fría que parece no dejar espacio para los sentimientos. Puedes haber sido una heroína para todos los demás, pero todavía estás intentando descubrir qué significa ser feliz para ti misma.",
+    "traits": [
+      "Sarcasmo",
+      "Realismo",
+      "Franqueza",
+      "Perseverancia",
+      "Devoción"
+    ],
+    "images": []
   }
 }
