@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-07T01:55:29.065Z",
+  "repository": "bloodycapella42VHS/BLOODYRADIO",
+  "branch": "main",
+  "base_path": "blog/capella",
+  "assets": [
+    {
+      "name": "Capella_confused-frame1.webp",
+      "path": "Capella_confused-frame1.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Capella_confused-frame1.webp",
+      "size": 5290
+    },
+    {
+      "name": "Capella_happy-frame1.webp",
+      "path": "Capella_happy-frame1.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Capella_happy-frame1.webp",
+      "size": 5370
+    },
+    {
+      "name": "Capella_nervous-frame1.webp",
+      "path": "Capella_nervous-frame1.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Capella_nervous-frame1.webp",
+      "size": 5352
+    },
+    {
+      "name": "Capella_neutral-frame1.webp",
+      "path": "Capella_neutral-frame1.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Capella_neutral-frame1.webp",
+      "size": 5362
+    },
+    {
+      "name": "Capella_sad-frame1.webp",
+      "path": "Capella_sad-frame1.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Capella_sad-frame1.webp",
+      "size": 5368
+    },
+    {
+      "name": "Capella_sadhappy-frame1.webp",
+      "path": "Capella_sadhappy-frame1.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Capella_sadhappy-frame1.webp",
+      "size": 5374
+    },
+    {
+      "name": "Capella_standnervous-frame_1.webp",
+      "path": "Capella_standnervous-frame_1.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Capella_standnervous-frame_1.webp",
+      "size": 11966
+    },
+    {
+      "name": "Capella_standshock-frame_1.webp",
+      "path": "Capella_standshock-frame_1.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Capella_standshock-frame_1.webp",
+      "size": 8834
+    },
+    {
+      "name": "Cutscene-capella_ladder_1.webp",
+      "path": "Cutscene-capella_ladder_1.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Cutscene-capella_ladder_1.webp",
+      "size": 35262
+    },
+    {
+      "name": "Cutscene-capella_reveal.webp",
+      "path": "Cutscene-capella_reveal.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Cutscene-capella_reveal.webp",
+      "size": 94138
+    },
+    {
+      "name": "Cutscene-savannah_dinner_4.webp",
+      "path": "Cutscene-savannah_dinner_4.webp",
+      "category": "images",
+      "extension": "webp",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/Cutscene-savannah_dinner_4.webp",
+      "size": 94516
+    },
+    {
+      "name": "dibujo_02_Personaje_y_simbolos.png",
+      "path": "dibujo_02_Personaje_y_simbolos.png",
+      "category": "images",
+      "extension": "png",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/dibujo_02_Personaje_y_simbolos.png",
+      "size": 304502
+    },
+    {
+      "name": "dibujo_03_Ornamento.png",
+      "path": "dibujo_03_Ornamento.png",
+      "category": "images",
+      "extension": "png",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/dibujo_03_Ornamento.png",
+      "size": 284287
+    },
+    {
+      "name": "WhatsApp Image 2026-11-05 at 3.29.53 PM (1).jpeg",
+      "path": "WhatsApp Image 2026-11-05 at 3.29.53 PM (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-05%20at%203.29.53%20PM%20(1).jpeg",
+      "size": 64237
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.27 PM (1).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.27 PM (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.27%20PM%20(1).jpeg",
+      "size": 139522
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.27 PM.jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.27 PM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.27%20PM.jpeg",
+      "size": 176276
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.28 PM (1).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.28 PM (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.28%20PM%20(1).jpeg",
+      "size": 7121
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.28 PM (2).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.28 PM (2).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.28%20PM%20(2).jpeg",
+      "size": 24773
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.28 PM (3).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.28 PM (3).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.28%20PM%20(3).jpeg",
+      "size": 24327
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.28 PM.jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.28 PM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.28%20PM.jpeg",
+      "size": 49258
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.29 PM (1).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.29 PM (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.29%20PM%20(1).jpeg",
+      "size": 172096
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.29 PM (2).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.29 PM (2).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.29%20PM%20(2).jpeg",
+      "size": 161974
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.29 PM (3).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.29 PM (3).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.29%20PM%20(3).jpeg",
+      "size": 33575
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.38.29 PM.jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.38.29 PM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.38.29%20PM.jpeg",
+      "size": 20651
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.46 PM (1).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.46 PM (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.46%20PM%20(1).jpeg",
+      "size": 24233
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.46 PM (2).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.46 PM (2).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.46%20PM%20(2).jpeg",
+      "size": 40031
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.46 PM (3).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.46 PM (3).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.46%20PM%20(3).jpeg",
+      "size": 23621
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.46 PM (4).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.46 PM (4).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.46%20PM%20(4).jpeg",
+      "size": 35572
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.46 PM (5).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.46 PM (5).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.46%20PM%20(5).jpeg",
+      "size": 21079
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.46 PM (6).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.46 PM (6).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.46%20PM%20(6).jpeg",
+      "size": 27905
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.46 PM (7).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.46 PM (7).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.46%20PM%20(7).jpeg",
+      "size": 35931
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.46 PM.jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.46 PM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.46%20PM.jpeg",
+      "size": 13806
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.47 PM (1).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.47 PM (1).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.47%20PM%20(1).jpeg",
+      "size": 25505
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.47 PM (2).jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.47 PM (2).jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.47%20PM%20(2).jpeg",
+      "size": 16760
+    },
+    {
+      "name": "WhatsApp Image 2026-11-06 at 7.42.47 PM.jpeg",
+      "path": "WhatsApp Image 2026-11-06 at 7.42.47 PM.jpeg",
+      "category": "images",
+      "extension": "jpeg",
+      "url": "https://raw.githubusercontent.com/bloodycapella42VHS/BLOODYRADIO/refs/heads/main/blog/capella/WhatsApp%20Image%202026-11-06%20at%207.42.47%20PM.jpeg",
+      "size": 17872
+    }
+  ]
+}
